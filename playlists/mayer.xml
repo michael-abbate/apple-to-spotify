@@ -1,0 +1,2939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-07-15T13:38:28Z</date>
+	<key>Application Version</key><string>1.2.1.40</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/mabbate/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>E21F834E554F8E23</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3038</key>
+		<dict>
+			<key>Track ID</key><integer>3038</integer>
+			<key>Name</key><string>Gravity</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8890741</integer>
+			<key>Total Time</key><integer>245773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2017-04-16T05:41:03Z</date>
+			<key>Date Added</key><date>2017-04-16T05:41:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>91</integer>
+			<key>Play Date</key><integer>3712056865</integer>
+			<key>Play Date UTC</key><date>2021-08-17T18:54:25Z</date>
+			<key>Skip Count</key><integer>23</integer>
+			<key>Skip Date</key><date>2021-08-18T15:28:31Z</date>
+			<key>Release Date</key><date>2006-09-12T07:00:00Z</date>
+			<key>Normalization</key><integer>1273</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Continuum</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Gravity</string>
+			<key>Persistent ID</key><string>9645888751D48B91</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4164</key>
+		<dict>
+			<key>Track ID</key><integer>4164</integer>
+			<key>Name</key><string>In Your Atmosphere</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12036344</integer>
+			<key>Total Time</key><integer>345626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-02-25T05:54:14Z</date>
+			<key>Date Added</key><date>2019-02-25T05:54:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>376</integer>
+			<key>Play Date</key><integer>3722373016</integer>
+			<key>Play Date UTC</key><date>2021-12-15T05:30:16Z</date>
+			<key>Skip Count</key><integer>15</integer>
+			<key>Skip Date</key><date>2021-12-25T04:56:24Z</date>
+			<key>Release Date</key><date>2008-07-01T07:00:00Z</date>
+			<key>Normalization</key><integer>1231</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>In Your Atmosphere</string>
+			<key>Persistent ID</key><string>7613C4DA049E8D28</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4184</key>
+		<dict>
+			<key>Track ID</key><integer>4184</integer>
+			<key>Name</key><string>Waiting On the World to Change</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7580201</integer>
+			<key>Total Time</key><integer>200666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2019-04-24T03:04:45Z</date>
+			<key>Date Added</key><date>2019-04-24T03:04:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>116</integer>
+			<key>Play Date</key><integer>3721760132</integer>
+			<key>Play Date UTC</key><date>2021-12-08T03:15:32Z</date>
+			<key>Skip Count</key><integer>26</integer>
+			<key>Skip Date</key><date>2021-12-24T23:11:11Z</date>
+			<key>Release Date</key><date>2006-07-11T07:00:00Z</date>
+			<key>Normalization</key><integer>2912</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Continuum</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Waiting On the World to Change</string>
+			<key>Persistent ID</key><string>63EFABA8BB8D06AF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4186</key>
+		<dict>
+			<key>Track ID</key><integer>4186</integer>
+			<key>Name</key><string>New Light</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer &#38; Ernest Wilson</string>
+			<key>Album</key><string>Sob Rock</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7631658</integer>
+			<key>Total Time</key><integer>217429</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-04-24T03:04:45Z</date>
+			<key>Date Added</key><date>2019-04-24T03:04:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>166</integer>
+			<key>Play Date</key><integer>3721907659</integer>
+			<key>Play Date UTC</key><date>2021-12-09T20:14:19Z</date>
+			<key>Skip Count</key><integer>23</integer>
+			<key>Skip Date</key><date>2021-12-07T14:38:37Z</date>
+			<key>Release Date</key><date>2018-05-10T07:00:00Z</date>
+			<key>Normalization</key><integer>2592</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sob Rock</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>New Light</string>
+			<key>Persistent ID</key><string>463851675E13A075</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4188</key>
+		<dict>
+			<key>Track ID</key><integer>4188</integer>
+			<key>Name</key><string>Your Body Is a Wonderland</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Room for Squares</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9394577</integer>
+			<key>Total Time</key><integer>249626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-04-24T03:04:45Z</date>
+			<key>Date Added</key><date>2019-04-24T03:04:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3712389871</integer>
+			<key>Play Date UTC</key><date>2021-08-21T15:24:31Z</date>
+			<key>Skip Count</key><integer>22</integer>
+			<key>Skip Date</key><date>2021-12-05T20:40:07Z</date>
+			<key>Release Date</key><date>2001-06-05T07:00:00Z</date>
+			<key>Normalization</key><integer>3832</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Room for Squares</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Your Body Is a Wonderland</string>
+			<key>Persistent ID</key><string>9598A81376F40AE1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4190</key>
+		<dict>
+			<key>Track ID</key><integer>4190</integer>
+			<key>Name</key><string>Say</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Say - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8139249</integer>
+			<key>Total Time</key><integer>230213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2019-04-24T03:04:45Z</date>
+			<key>Date Added</key><date>2019-04-24T03:04:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3721760910</integer>
+			<key>Play Date UTC</key><date>2021-12-08T03:28:30Z</date>
+			<key>Skip Count</key><integer>15</integer>
+			<key>Skip Date</key><date>2021-12-02T03:38:02Z</date>
+			<key>Release Date</key><date>2007-11-20T08:00:00Z</date>
+			<key>Normalization</key><integer>4031</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Say - Single</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Say</string>
+			<key>Persistent ID</key><string>E81E98E3E9B07862</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4192</key>
+		<dict>
+			<key>Track ID</key><integer>4192</integer>
+			<key>Name</key><string>Free Fallin'</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>Thomas Earl Petty &#38; Jeffrey Lynne</string>
+			<key>Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9250354</integer>
+			<key>Total Time</key><integer>263573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-04-24T03:04:45Z</date>
+			<key>Date Added</key><date>2019-04-24T03:04:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>203</integer>
+			<key>Play Date</key><integer>3721888456</integer>
+			<key>Play Date UTC</key><date>2021-12-09T14:54:16Z</date>
+			<key>Skip Count</key><integer>14</integer>
+			<key>Skip Date</key><date>2021-12-25T05:00:17Z</date>
+			<key>Release Date</key><date>2008-07-01T07:00:00Z</date>
+			<key>Normalization</key><integer>1120</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Free Fallin'</string>
+			<key>Persistent ID</key><string>C889A7DCB47348C2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4194</key>
+		<dict>
+			<key>Track ID</key><integer>4194</integer>
+			<key>Name</key><string>Wildfire</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Paradise Valley</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9127209</integer>
+			<key>Total Time</key><integer>254266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-04-24T03:04:45Z</date>
+			<key>Date Added</key><date>2019-04-24T03:04:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>67</integer>
+			<key>Play Date</key><integer>3721908137</integer>
+			<key>Play Date UTC</key><date>2021-12-09T20:22:17Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2021-08-18T14:24:25Z</date>
+			<key>Release Date</key><date>2013-07-16T07:00:00Z</date>
+			<key>Normalization</key><integer>2293</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Paradise Valley</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Wildfire</string>
+			<key>Persistent ID</key><string>E9A9F422E09190A5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4196</key>
+		<dict>
+			<key>Track ID</key><integer>4196</integer>
+			<key>Name</key><string>No Such Thing</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer &#38; Clay Cook</string>
+			<key>Album</key><string>Room for Squares</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8518046</integer>
+			<key>Total Time</key><integer>231466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-04-24T03:04:45Z</date>
+			<key>Date Added</key><date>2019-04-24T03:04:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>172</integer>
+			<key>Play Date</key><integer>3721882447</integer>
+			<key>Play Date UTC</key><date>2021-12-09T13:14:07Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2021-08-18T13:33:47Z</date>
+			<key>Release Date</key><date>2001-06-05T07:00:00Z</date>
+			<key>Normalization</key><integer>4956</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Room for Squares</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>No Such Thing</string>
+			<key>Persistent ID</key><string>A4D9CBECAD7D435F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4198</key>
+		<dict>
+			<key>Track ID</key><integer>4198</integer>
+			<key>Name</key><string>Slow Dancing In a Burning Room</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8577944</integer>
+			<key>Total Time</key><integer>241946</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2019-04-24T03:04:45Z</date>
+			<key>Date Added</key><date>2019-04-24T03:04:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>244</integer>
+			<key>Play Date</key><integer>3713181884</integer>
+			<key>Play Date UTC</key><date>2021-08-30T19:24:44Z</date>
+			<key>Skip Count</key><integer>14</integer>
+			<key>Skip Date</key><date>2021-12-08T02:20:46Z</date>
+			<key>Release Date</key><date>2006-09-12T07:00:00Z</date>
+			<key>Normalization</key><integer>2250</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Continuum</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Slow Dancing In a Burning Room</string>
+			<key>Persistent ID</key><string>75399011E4F66D08</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4200</key>
+		<dict>
+			<key>Track ID</key><integer>4200</integer>
+			<key>Name</key><string>Daughters</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Heavier Things</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8421882</integer>
+			<key>Total Time</key><integer>239320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-04-24T03:04:45Z</date>
+			<key>Date Added</key><date>2019-04-24T03:04:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>82</integer>
+			<key>Play Date</key><integer>3711873596</integer>
+			<key>Play Date UTC</key><date>2021-08-15T15:59:56Z</date>
+			<key>Skip Count</key><integer>28</integer>
+			<key>Skip Date</key><date>2021-12-25T04:42:23Z</date>
+			<key>Release Date</key><date>2003-09-09T07:00:00Z</date>
+			<key>Normalization</key><integer>2426</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Heavier Things</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Daughters</string>
+			<key>Persistent ID</key><string>7A1E599E0BC165A3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4202</key>
+		<dict>
+			<key>Track ID</key><integer>4202</integer>
+			<key>Name</key><string>Why Georgia</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Room for Squares</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9525945</integer>
+			<key>Total Time</key><integer>268973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-04-24T03:10:19Z</date>
+			<key>Date Added</key><date>2019-04-24T03:10:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>258</integer>
+			<key>Play Date</key><integer>3722373285</integer>
+			<key>Play Date UTC</key><date>2021-12-15T05:34:45Z</date>
+			<key>Skip Count</key><integer>23</integer>
+			<key>Skip Date</key><date>2021-12-24T23:15:52Z</date>
+			<key>Release Date</key><date>2001-06-05T07:00:00Z</date>
+			<key>Normalization</key><integer>3065</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Room for Squares</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Why Georgia</string>
+			<key>Persistent ID</key><string>29D2FD054ABCC62F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4206</key>
+		<dict>
+			<key>Track ID</key><integer>4206</integer>
+			<key>Name</key><string>The Heart of Life</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7956390</integer>
+			<key>Total Time</key><integer>220133</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-04-25T04:00:19Z</date>
+			<key>Date Added</key><date>2019-04-25T04:00:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>465</integer>
+			<key>Play Date</key><integer>3723234367</integer>
+			<key>Play Date UTC</key><date>2021-12-25T04:46:07Z</date>
+			<key>Skip Count</key><integer>16</integer>
+			<key>Skip Date</key><date>2021-08-18T13:05:08Z</date>
+			<key>Release Date</key><date>2008-07-01T07:00:00Z</date>
+			<key>Normalization</key><integer>1227</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Heart of Life</string>
+			<key>Persistent ID</key><string>60278285355BC7C4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4208</key>
+		<dict>
+			<key>Track ID</key><integer>4208</integer>
+			<key>Name</key><string>Outta My Head (with John Mayer)</string>
+			<key>Artist</key><string>Khalid</string>
+			<key>Album Artist</key><string>Khalid</string>
+			<key>Composer</key><string>John Mayer, Khalid Robinson, John Hill, Sarah Aarons &#38; Jamil Chammas</string>
+			<key>Album</key><string>Free Spirit</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6367981</integer>
+			<key>Total Time</key><integer>177106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-04-28T22:00:07Z</date>
+			<key>Date Added</key><date>2019-04-28T22:00:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>114</integer>
+			<key>Play Date</key><integer>3715247161</integer>
+			<key>Play Date UTC</key><date>2021-09-23T17:06:01Z</date>
+			<key>Skip Count</key><integer>17</integer>
+			<key>Skip Date</key><date>2021-07-14T21:28:22Z</date>
+			<key>Release Date</key><date>2019-04-05T12:00:00Z</date>
+			<key>Normalization</key><integer>2469</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Free Spirit</string>
+			<key>Sort Artist</key><string>Khalid</string>
+			<key>Sort Name</key><string>Outta My Head (with John Mayer)</string>
+			<key>Persistent ID</key><string>C0D4CACD17840DCB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4232</key>
+		<dict>
+			<key>Track ID</key><integer>4232</integer>
+			<key>Name</key><string>Who Says</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Battle Studies (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6363435</integer>
+			<key>Total Time</key><integer>175417</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2019-05-18T17:09:26Z</date>
+			<key>Date Added</key><date>2019-05-18T17:09:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>163</integer>
+			<key>Play Date</key><integer>3721246050</integer>
+			<key>Play Date UTC</key><date>2021-12-02T04:27:30Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2021-07-25T17:14:36Z</date>
+			<key>Release Date</key><date>2009-10-13T07:00:00Z</date>
+			<key>Normalization</key><integer>1021</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Battle Studies (Deluxe Version)</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Who Says</string>
+			<key>Persistent ID</key><string>1FC2AB121FD7E7BE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4282</key>
+		<dict>
+			<key>Track ID</key><integer>4282</integer>
+			<key>Name</key><string>I Guess I Just Feel Like</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Sob Rock</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9869004</integer>
+			<key>Total Time</key><integer>286386</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-06-17T11:47:26Z</date>
+			<key>Date Added</key><date>2019-06-17T11:47:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>61</integer>
+			<key>Play Date</key><integer>3721888954</integer>
+			<key>Play Date UTC</key><date>2021-12-09T15:02:34Z</date>
+			<key>Skip Count</key><integer>15</integer>
+			<key>Skip Date</key><date>2021-07-14T21:58:41Z</date>
+			<key>Release Date</key><date>2019-02-22T08:00:00Z</date>
+			<key>Normalization</key><integer>2095</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sob Rock</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>I Guess I Just Feel Like</string>
+			<key>Persistent ID</key><string>F023FE4CF73485B6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4284</key>
+		<dict>
+			<key>Track ID</key><integer>4284</integer>
+			<key>Name</key><string>I'm Gonna Find Another You</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5960286</integer>
+			<key>Total Time</key><integer>162920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2019-06-17T11:52:26Z</date>
+			<key>Date Added</key><date>2019-06-17T11:52:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>85</integer>
+			<key>Play Date</key><integer>3722703515</integer>
+			<key>Play Date UTC</key><date>2021-12-19T01:18:35Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2021-08-18T13:05:21Z</date>
+			<key>Release Date</key><date>2006-09-12T12:00:00Z</date>
+			<key>Normalization</key><integer>1468</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Continuum</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>I'm Gonna Find Another You</string>
+			<key>Persistent ID</key><string>7029437736144A6A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4292</key>
+		<dict>
+			<key>Track ID</key><integer>4292</integer>
+			<key>Name</key><string>Daughters</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10657813</integer>
+			<key>Total Time</key><integer>304600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-06-23T02:47:58Z</date>
+			<key>Date Added</key><date>2019-06-23T02:47:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>153</integer>
+			<key>Play Date</key><integer>3711876618</integer>
+			<key>Play Date UTC</key><date>2021-08-15T16:50:18Z</date>
+			<key>Skip Count</key><integer>16</integer>
+			<key>Skip Date</key><date>2021-12-09T15:33:02Z</date>
+			<key>Release Date</key><date>2008-07-01T07:00:00Z</date>
+			<key>Normalization</key><integer>1880</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Daughters</string>
+			<key>Persistent ID</key><string>C2DFBC53471357D5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4294</key>
+		<dict>
+			<key>Track ID</key><integer>4294</integer>
+			<key>Name</key><string>Heartbreak Warfare</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Battle Studies (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9384469</integer>
+			<key>Total Time</key><integer>269717</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2019-06-24T22:28:26Z</date>
+			<key>Date Added</key><date>2019-06-24T22:28:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>127</integer>
+			<key>Play Date</key><integer>3716123446</integer>
+			<key>Play Date UTC</key><date>2021-10-03T20:30:46Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2021-07-25T16:32:12Z</date>
+			<key>Release Date</key><date>2009-10-19T07:00:00Z</date>
+			<key>Normalization</key><integer>3068</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Battle Studies (Deluxe Version)</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Heartbreak Warfare</string>
+			<key>Persistent ID</key><string>B8C8A2AD19081046</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4296</key>
+		<dict>
+			<key>Track ID</key><integer>4296</integer>
+			<key>Name</key><string>Half of My Heart</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Battle Studies (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8992522</integer>
+			<key>Total Time</key><integer>250342</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2019-06-24T21:36:18Z</date>
+			<key>Date Added</key><date>2019-06-24T21:36:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>213</integer>
+			<key>Play Date</key><integer>3722372643</integer>
+			<key>Play Date UTC</key><date>2021-12-15T05:24:03Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2021-12-25T04:56:43Z</date>
+			<key>Release Date</key><date>2009-11-17T08:00:00Z</date>
+			<key>Normalization</key><integer>2356</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Battle Studies (Deluxe Version)</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Half of My Heart</string>
+			<key>Persistent ID</key><string>33BD35DA3BBAD44F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4306</key>
+		<dict>
+			<key>Track ID</key><integer>4306</integer>
+			<key>Name</key><string>Slow Dancing In a Burning Room</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11329751</integer>
+			<key>Total Time</key><integer>319226</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-07-06T14:28:07Z</date>
+			<key>Date Added</key><date>2019-07-06T14:28:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>117</integer>
+			<key>Play Date</key><integer>3716122045</integer>
+			<key>Play Date UTC</key><date>2021-10-03T20:07:25Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2021-09-07T01:06:47Z</date>
+			<key>Release Date</key><date>2008-07-01T07:00:00Z</date>
+			<key>Normalization</key><integer>4949</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Slow Dancing In a Burning Room</string>
+			<key>Persistent ID</key><string>7394982ACF5208F4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4310</key>
+		<dict>
+			<key>Track ID</key><integer>4310</integer>
+			<key>Name</key><string>Neon</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer &#38; Clay Cook</string>
+			<key>Album</key><string>Room for Squares</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9526438</integer>
+			<key>Total Time</key><integer>262106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-07-15T11:27:02Z</date>
+			<key>Date Added</key><date>2019-07-15T11:27:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>51</integer>
+			<key>Play Date</key><integer>3711888582</integer>
+			<key>Play Date UTC</key><date>2021-08-15T20:09:42Z</date>
+			<key>Skip Count</key><integer>30</integer>
+			<key>Skip Date</key><date>2021-12-19T01:22:15Z</date>
+			<key>Release Date</key><date>2001-06-05T07:00:00Z</date>
+			<key>Normalization</key><integer>3891</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Room for Squares</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Neon</string>
+			<key>Persistent ID</key><string>B5F9EFE2021E23F8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4318</key>
+		<dict>
+			<key>Track ID</key><integer>4318</integer>
+			<key>Name</key><string>Stop This Train</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10496865</integer>
+			<key>Total Time</key><integer>300200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-07-22T11:42:56Z</date>
+			<key>Date Added</key><date>2019-07-22T11:42:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>247</integer>
+			<key>Play Date</key><integer>3722283585</integer>
+			<key>Play Date UTC</key><date>2021-12-14T04:39:45Z</date>
+			<key>Skip Count</key><integer>18</integer>
+			<key>Skip Date</key><date>2021-12-09T15:33:09Z</date>
+			<key>Release Date</key><date>2008-07-01T07:00:00Z</date>
+			<key>Normalization</key><integer>1146</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Stop This Train</string>
+			<key>Persistent ID</key><string>EBD947849AFA56A1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4324</key>
+		<dict>
+			<key>Track ID</key><integer>4324</integer>
+			<key>Name</key><string>Love on the Weekend</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>The Search for Everything</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7809839</integer>
+			<key>Total Time</key><integer>212320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-07-26T03:12:32Z</date>
+			<key>Date Added</key><date>2019-07-26T03:12:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>158</integer>
+			<key>Play Date</key><integer>3722703728</integer>
+			<key>Play Date UTC</key><date>2021-12-19T01:22:08Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2021-12-24T23:15:24Z</date>
+			<key>Release Date</key><date>2016-11-17T08:00:00Z</date>
+			<key>Normalization</key><integer>2739</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Search for Everything</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Love on the Weekend</string>
+			<key>Persistent ID</key><string>87B3EF0B3760E5BC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4326</key>
+		<dict>
+			<key>Track ID</key><integer>4326</integer>
+			<key>Name</key><string>In the Blood</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>The Search for Everything</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8659666</integer>
+			<key>Total Time</key><integer>244773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-07-27T04:06:39Z</date>
+			<key>Date Added</key><date>2019-07-27T04:06:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>170</integer>
+			<key>Play Date</key><integer>3716123948</integer>
+			<key>Play Date UTC</key><date>2021-10-03T20:39:08Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2021-08-31T19:50:13Z</date>
+			<key>Release Date</key><date>2017-04-14T12:00:00Z</date>
+			<key>Normalization</key><integer>3693</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Search for Everything</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>In the Blood</string>
+			<key>Persistent ID</key><string>97E6DCD568525E33</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4330</key>
+		<dict>
+			<key>Track ID</key><integer>4330</integer>
+			<key>Name</key><string>Still Feel Like Your Man</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>The Search for Everything</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8571630</integer>
+			<key>Total Time</key><integer>234533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-07-29T20:10:53Z</date>
+			<key>Date Added</key><date>2019-07-29T20:10:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>98</integer>
+			<key>Play Date</key><integer>3719057944</integer>
+			<key>Play Date UTC</key><date>2021-11-06T19:39:04Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2021-09-01T23:01:23Z</date>
+			<key>Release Date</key><date>2017-02-24T12:00:00Z</date>
+			<key>Normalization</key><integer>2324</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Search for Everything</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Still Feel Like Your Man</string>
+			<key>Persistent ID</key><string>E0E59072AE6D9532</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4332</key>
+		<dict>
+			<key>Track ID</key><integer>4332</integer>
+			<key>Name</key><string>Bold As Love</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>Jimi Hendrix</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9078280</integer>
+			<key>Total Time</key><integer>258146</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2019-07-30T11:57:33Z</date>
+			<key>Date Added</key><date>2019-07-30T11:57:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>138</integer>
+			<key>Play Date</key><integer>3720868743</integer>
+			<key>Play Date UTC</key><date>2021-11-27T19:39:03Z</date>
+			<key>Skip Count</key><integer>13</integer>
+			<key>Skip Date</key><date>2021-12-05T20:25:55Z</date>
+			<key>Release Date</key><date>2006-09-12T07:00:00Z</date>
+			<key>Normalization</key><integer>4940</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Continuum</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Bold As Love</string>
+			<key>Persistent ID</key><string>DE228D19D017E799</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4334</key>
+		<dict>
+			<key>Track ID</key><integer>4334</integer>
+			<key>Name</key><string>Neon</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer &#38; Clay Cook</string>
+			<key>Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12332873</integer>
+			<key>Total Time</key><integer>355733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-07-30T12:02:34Z</date>
+			<key>Date Added</key><date>2019-07-30T12:02:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>414</integer>
+			<key>Play Date</key><integer>3722835017</integer>
+			<key>Play Date UTC</key><date>2021-12-20T13:50:17Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2021-08-18T14:28:25Z</date>
+			<key>Release Date</key><date>2008-07-01T07:00:00Z</date>
+			<key>Normalization</key><integer>1123</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Neon</string>
+			<key>Persistent ID</key><string>66E9620D37B44A9B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4340</key>
+		<dict>
+			<key>Track ID</key><integer>4340</integer>
+			<key>Name</key><string>I Don't Trust Myself (With Loving You) [Live]</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>18016898</integer>
+			<key>Total Time</key><integer>524893</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-07-31T19:33:59Z</date>
+			<key>Date Added</key><date>2019-07-31T19:33:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3724829294</integer>
+			<key>Play Date UTC</key><date>2022-01-12T15:48:14Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-08-18T14:04:42Z</date>
+			<key>Release Date</key><date>2008-07-01T07:00:00Z</date>
+			<key>Normalization</key><integer>2979</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>I Don't Trust Myself (With Loving You) [Live]</string>
+			<key>Persistent ID</key><string>568C6C3F94A9DB9A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4344</key>
+		<dict>
+			<key>Track ID</key><integer>4344</integer>
+			<key>Name</key><string>I Don't Need No Doctor</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>N. Ashford, J. Armstead &#38; V. Simpson</string>
+			<key>Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12565840</integer>
+			<key>Total Time</key><integer>362573</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-07-31T19:33:59Z</date>
+			<key>Date Added</key><date>2019-07-31T19:33:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3722162501</integer>
+			<key>Play Date UTC</key><date>2021-12-12T19:01:41Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2021-12-24T23:15:12Z</date>
+			<key>Release Date</key><date>2008-07-01T07:00:00Z</date>
+			<key>Normalization</key><integer>7757</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>I Don't Need No Doctor</string>
+			<key>Persistent ID</key><string>7A2F18F37CE04ECC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4350</key>
+		<dict>
+			<key>Track ID</key><integer>4350</integer>
+			<key>Name</key><string>Why Georgia</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9407740</integer>
+			<key>Total Time</key><integer>267400</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-07-31T19:33:59Z</date>
+			<key>Date Added</key><date>2019-07-31T19:33:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>189</integer>
+			<key>Play Date</key><integer>3713496474</integer>
+			<key>Play Date UTC</key><date>2021-09-03T10:47:54Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2021-12-24T23:15:36Z</date>
+			<key>Release Date</key><date>2008-07-01T07:00:00Z</date>
+			<key>Normalization</key><integer>4464</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Why Georgia</string>
+			<key>Persistent ID</key><string>3931B0F54D9077FC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4356</key>
+		<dict>
+			<key>Track ID</key><integer>4356</integer>
+			<key>Name</key><string>Good Love Is On the Way</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>Steve Jordan &#38; Pino Palladino</string>
+			<key>Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9395451</integer>
+			<key>Total Time</key><integer>258933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-07-31T19:33:59Z</date>
+			<key>Date Added</key><date>2019-07-31T19:33:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3722162872</integer>
+			<key>Play Date UTC</key><date>2021-12-12T19:07:52Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-01-04T00:12:57Z</date>
+			<key>Release Date</key><date>2008-07-01T07:00:00Z</date>
+			<key>Normalization</key><integer>3920</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Good Love Is On the Way</string>
+			<key>Persistent ID</key><string>27CDFF85AB440A75</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4358</key>
+		<dict>
+			<key>Track ID</key><integer>4358</integer>
+			<key>Name</key><string>Vultures</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer, Steve Jordan &#38; Pino Palladino</string>
+			<key>Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11152431</integer>
+			<key>Total Time</key><integer>319933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-07-31T19:33:59Z</date>
+			<key>Date Added</key><date>2019-07-31T19:33:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3721907435</integer>
+			<key>Play Date UTC</key><date>2021-12-09T20:10:35Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-12-13T01:52:19Z</date>
+			<key>Release Date</key><date>2008-07-01T07:00:00Z</date>
+			<key>Normalization</key><integer>1260</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Vultures</string>
+			<key>Persistent ID</key><string>8ED27662CF0BB7AD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4360</key>
+		<dict>
+			<key>Track ID</key><integer>4360</integer>
+			<key>Name</key><string>Gravity</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer, Otis Redding, Joe Rock &#38; Zelma Redding</string>
+			<key>Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>19786431</integer>
+			<key>Total Time</key><integer>581066</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-07-31T19:33:59Z</date>
+			<key>Date Added</key><date>2019-07-31T19:33:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>87</integer>
+			<key>Play Date</key><integer>3721748082</integer>
+			<key>Play Date UTC</key><date>2021-12-07T23:54:42Z</date>
+			<key>Skip Count</key><integer>16</integer>
+			<key>Skip Date</key><date>2021-12-24T23:15:46Z</date>
+			<key>Release Date</key><date>2008-07-01T07:00:00Z</date>
+			<key>Normalization</key><integer>3458</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Gravity</string>
+			<key>Persistent ID</key><string>CCC8A95D46D408CE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4362</key>
+		<dict>
+			<key>Track ID</key><integer>4362</integer>
+			<key>Name</key><string>Waiting On the World to Change</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8291052</integer>
+			<key>Total Time</key><integer>230800</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-07-31T20:33:59Z</date>
+			<key>Date Added</key><date>2019-07-31T20:33:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>107</integer>
+			<key>Play Date</key><integer>3713545015</integer>
+			<key>Play Date UTC</key><date>2021-09-04T00:16:55Z</date>
+			<key>Skip Count</key><integer>23</integer>
+			<key>Skip Date</key><date>2021-08-18T14:50:53Z</date>
+			<key>Release Date</key><date>2008-07-01T07:00:00Z</date>
+			<key>Normalization</key><integer>4097</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Waiting On the World to Change</string>
+			<key>Persistent ID</key><string>AB0EAA69DA810E94</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4368</key>
+		<dict>
+			<key>Track ID</key><integer>4368</integer>
+			<key>Name</key><string>Helpless</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>The Search for Everything</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9012805</integer>
+			<key>Total Time</key><integer>249120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-08-03T15:53:10Z</date>
+			<key>Date Added</key><date>2019-08-03T15:53:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>137</integer>
+			<key>Play Date</key><integer>3719050605</integer>
+			<key>Play Date UTC</key><date>2021-11-06T17:36:45Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2021-12-03T08:33:08Z</date>
+			<key>Release Date</key><date>2017-02-24T08:00:00Z</date>
+			<key>Normalization</key><integer>4622</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Search for Everything</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Helpless</string>
+			<key>Persistent ID</key><string>A233FE3B45940C2C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4372</key>
+		<dict>
+			<key>Track ID</key><integer>4372</integer>
+			<key>Name</key><string>XO</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>Terius Nash, Ryan Tedder, Beyoncé &#38; Beyoncé Knowles</string>
+			<key>Album</key><string>XO - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7539094</integer>
+			<key>Total Time</key><integer>213626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2019-08-10T03:43:18Z</date>
+			<key>Date Added</key><date>2019-08-10T03:43:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>131</integer>
+			<key>Play Date</key><integer>3721661998</integer>
+			<key>Play Date UTC</key><date>2021-12-06T23:59:58Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2021-09-03T23:08:48Z</date>
+			<key>Release Date</key><date>2014-05-27T07:00:00Z</date>
+			<key>Normalization</key><integer>1957</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>XO - Single</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>XO</string>
+			<key>Persistent ID</key><string>B3FC74DA433EA34C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4376</key>
+		<dict>
+			<key>Track ID</key><integer>4376</integer>
+			<key>Name</key><string>Moving On and Getting Over</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>The Search for Everything</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9074271</integer>
+			<key>Total Time</key><integer>265360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-08-12T18:58:14Z</date>
+			<key>Date Added</key><date>2019-08-12T18:58:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>84</integer>
+			<key>Play Date</key><integer>3719053614</integer>
+			<key>Play Date UTC</key><date>2021-11-06T18:26:54Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2021-12-07T15:05:59Z</date>
+			<key>Release Date</key><date>2017-01-20T12:00:00Z</date>
+			<key>Normalization</key><integer>1629</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Search for Everything</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Moving On and Getting Over</string>
+			<key>Persistent ID</key><string>6A0A97033A9ECE8F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4378</key>
+		<dict>
+			<key>Track ID</key><integer>4378</integer>
+			<key>Name</key><string>Changing</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>The Search for Everything</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8379525</integer>
+			<key>Total Time</key><integer>213080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-08-12T18:58:18Z</date>
+			<key>Date Added</key><date>2019-08-12T18:58:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>88</integer>
+			<key>Play Date</key><integer>3721890040</integer>
+			<key>Play Date UTC</key><date>2021-12-09T15:20:40Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2021-08-18T13:37:36Z</date>
+			<key>Release Date</key><date>2017-01-20T08:00:00Z</date>
+			<key>Normalization</key><integer>1902</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Search for Everything</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Changing</string>
+			<key>Persistent ID</key><string>BEB2E536E0481F02</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4380</key>
+		<dict>
+			<key>Track ID</key><integer>4380</integer>
+			<key>Name</key><string>Rosie</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>The Search for Everything</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8476629</integer>
+			<key>Total Time</key><integer>242746</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-08-12T18:58:26Z</date>
+			<key>Date Added</key><date>2019-08-12T18:58:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>141</integer>
+			<key>Play Date</key><integer>3721660212</integer>
+			<key>Play Date UTC</key><date>2021-12-06T23:30:12Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2021-12-12T18:55:38Z</date>
+			<key>Release Date</key><date>2017-04-14T12:00:00Z</date>
+			<key>Normalization</key><integer>3242</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Search for Everything</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Rosie</string>
+			<key>Persistent ID</key><string>0635FB065B5A0646</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4382</key>
+		<dict>
+			<key>Track ID</key><integer>4382</integer>
+			<key>Name</key><string>Dreaming With a Broken Heart</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9037235</integer>
+			<key>Total Time</key><integer>247840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2019-08-12T19:29:53Z</date>
+			<key>Date Added</key><date>2019-08-12T19:29:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>52</integer>
+			<key>Play Date</key><integer>3716117613</integer>
+			<key>Play Date UTC</key><date>2021-10-03T18:53:33Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2021-12-07T15:05:42Z</date>
+			<key>Release Date</key><date>2006-09-12T12:00:00Z</date>
+			<key>Normalization</key><integer>1851</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Continuum</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Dreaming With a Broken Heart</string>
+			<key>Persistent ID</key><string>C4623B8557B2714F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4398</key>
+		<dict>
+			<key>Track ID</key><integer>4398</integer>
+			<key>Name</key><string>Carry Me Away</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Sob Rock</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5742199</integer>
+			<key>Total Time</key><integer>159133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-09-12T18:55:04Z</date>
+			<key>Date Added</key><date>2019-09-12T18:55:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>74</integer>
+			<key>Play Date</key><integer>3721661528</integer>
+			<key>Play Date UTC</key><date>2021-12-06T23:52:08Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-08-18T14:28:34Z</date>
+			<key>Release Date</key><date>2019-09-06T07:00:00Z</date>
+			<key>Normalization</key><integer>3706</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sob Rock</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Carry Me Away</string>
+			<key>Persistent ID</key><string>E5585519D50B574F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4462</key>
+		<dict>
+			<key>Track ID</key><integer>4462</integer>
+			<key>Name</key><string>Queen of California</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Born and Raised</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8685473</integer>
+			<key>Total Time</key><integer>249307</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-11-28T04:18:46Z</date>
+			<key>Date Added</key><date>2019-11-28T04:18:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>72</integer>
+			<key>Play Date</key><integer>3719060211</integer>
+			<key>Play Date UTC</key><date>2021-11-06T20:16:51Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2021-12-07T14:43:04Z</date>
+			<key>Release Date</key><date>2012-05-22T07:00:00Z</date>
+			<key>Normalization</key><integer>1513</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Born and Raised</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Queen of California</string>
+			<key>Persistent ID</key><string>774A5226464F85AC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4468</key>
+		<dict>
+			<key>Track ID</key><integer>4468</integer>
+			<key>Name</key><string>Clarity</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Heavier Things</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9759738</integer>
+			<key>Total Time</key><integer>271760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-12-30T03:57:11Z</date>
+			<key>Date Added</key><date>2019-12-30T03:57:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>113</integer>
+			<key>Play Date</key><integer>3721563880</integer>
+			<key>Play Date UTC</key><date>2021-12-05T20:44:40Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2021-12-25T04:56:37Z</date>
+			<key>Release Date</key><date>2003-09-09T07:00:00Z</date>
+			<key>Normalization</key><integer>4450</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Heavier Things</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Clarity</string>
+			<key>Persistent ID</key><string>E3998421D3952A0E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4508</key>
+		<dict>
+			<key>Track ID</key><integer>4508</integer>
+			<key>Name</key><string>Perfectly Lonely</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Battle Studies (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9320999</integer>
+			<key>Total Time</key><integer>268042</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2020-05-09T00:41:38Z</date>
+			<key>Date Added</key><date>2020-05-09T00:41:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>91</integer>
+			<key>Play Date</key><integer>3723295035</integer>
+			<key>Play Date UTC</key><date>2021-12-25T21:37:15Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2021-10-03T20:24:13Z</date>
+			<key>Release Date</key><date>2009-11-17T08:00:00Z</date>
+			<key>Normalization</key><integer>1968</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Battle Studies (Deluxe Version)</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Perfectly Lonely</string>
+			<key>Persistent ID</key><string>92A6B049820C12ED</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4520</key>
+		<dict>
+			<key>Track ID</key><integer>4520</integer>
+			<key>Name</key><string>In Repair</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer &#38; Charlie Hunter</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13480823</integer>
+			<key>Total Time</key><integer>369826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2020-07-27T02:32:48Z</date>
+			<key>Date Added</key><date>2020-07-27T02:32:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>66</integer>
+			<key>Play Date</key><integer>3716121532</integer>
+			<key>Play Date UTC</key><date>2021-10-03T19:58:52Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2021-12-25T04:46:30Z</date>
+			<key>Release Date</key><date>2006-09-12T12:00:00Z</date>
+			<key>Normalization</key><integer>3330</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Continuum</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>In Repair</string>
+			<key>Persistent ID</key><string>91299EEC9A4C9DB1</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4524</key>
+		<dict>
+			<key>Track ID</key><integer>4524</integer>
+			<key>Name</key><string>Emoji of a Wave</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>The Search for Everything</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8582889</integer>
+			<key>Total Time</key><integer>239666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-08-16T22:55:37Z</date>
+			<key>Date Added</key><date>2020-08-16T22:55:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>106</integer>
+			<key>Play Date</key><integer>3721757527</integer>
+			<key>Play Date UTC</key><date>2021-12-08T02:32:07Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-08-21T15:17:31Z</date>
+			<key>Release Date</key><date>2017-02-24T08:00:00Z</date>
+			<key>Normalization</key><integer>1841</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Search for Everything</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Emoji of a Wave</string>
+			<key>Persistent ID</key><string>EA9A455E41A5DCDC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4526</key>
+		<dict>
+			<key>Track ID</key><integer>4526</integer>
+			<key>Name</key><string>You're Gonna Live Forever in Me</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>The Search for Everything</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6765759</integer>
+			<key>Total Time</key><integer>190013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-08-16T23:58:15Z</date>
+			<key>Date Added</key><date>2020-08-16T23:58:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>69</integer>
+			<key>Play Date</key><integer>3715717188</integer>
+			<key>Play Date UTC</key><date>2021-09-29T03:39:48Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2021-10-02T15:31:05Z</date>
+			<key>Release Date</key><date>2017-01-20T12:00:00Z</date>
+			<key>Normalization</key><integer>1014</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Search for Everything</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>You're Gonna Live Forever in Me</string>
+			<key>Persistent ID</key><string>C12FF9F7DEF747DB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4530</key>
+		<dict>
+			<key>Track ID</key><integer>4530</integer>
+			<key>Name</key><string>Walt Grace's Submarine Test, January 1967</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Born and Raised</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10749076</integer>
+			<key>Total Time</key><integer>310240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2020-08-22T16:20:29Z</date>
+			<key>Date Added</key><date>2020-08-22T16:20:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3721889584</integer>
+			<key>Play Date UTC</key><date>2021-12-09T15:13:04Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2021-12-09T20:14:25Z</date>
+			<key>Release Date</key><date>2012-05-22T07:00:00Z</date>
+			<key>Normalization</key><integer>1460</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Born and Raised</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Walt Grace's Submarine Test, January 1967</string>
+			<key>Persistent ID</key><string>19A1F9C0FD558C63</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4546</key>
+		<dict>
+			<key>Track ID</key><integer>4546</integer>
+			<key>Name</key><string>Dear Marie</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Paradise Valley</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7994867</integer>
+			<key>Total Time</key><integer>224800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2020-09-08T13:19:34Z</date>
+			<key>Date Added</key><date>2020-09-08T13:19:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3721564321</integer>
+			<key>Play Date UTC</key><date>2021-12-05T20:52:01Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2021-12-12T18:55:29Z</date>
+			<key>Release Date</key><date>2013-08-16T07:00:00Z</date>
+			<key>Normalization</key><integer>1475</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Paradise Valley</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Dear Marie</string>
+			<key>Persistent ID</key><string>6849451588E8C55E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4548</key>
+		<dict>
+			<key>Track ID</key><integer>4548</integer>
+			<key>Name</key><string>Something Like Olivia</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Born and Raised</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6402211</integer>
+			<key>Total Time</key><integer>181346</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2020-09-13T03:37:02Z</date>
+			<key>Date Added</key><date>2020-09-13T03:37:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>53</integer>
+			<key>Play Date</key><integer>3723295217</integer>
+			<key>Play Date UTC</key><date>2021-12-25T21:40:17Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2021-12-25T04:42:26Z</date>
+			<key>Release Date</key><date>2012-05-22T07:00:00Z</date>
+			<key>Normalization</key><integer>1097</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Born and Raised</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Something Like Olivia</string>
+			<key>Persistent ID</key><string>703A34624C1DA89F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4550</key>
+		<dict>
+			<key>Track ID</key><integer>4550</integer>
+			<key>Name</key><string>Something Like Olivia (Acoustic Live)</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>The Complete 2012 Performances Collection - EP</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6538194</integer>
+			<key>Total Time</key><integer>183160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2020-09-13T03:37:10Z</date>
+			<key>Date Added</key><date>2020-09-13T03:37:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>53</integer>
+			<key>Play Date</key><integer>3721882215</integer>
+			<key>Play Date UTC</key><date>2021-12-09T13:10:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-09-07T00:11:05Z</date>
+			<key>Release Date</key><date>2012-08-03T12:00:00Z</date>
+			<key>Normalization</key><integer>1283</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Complete 2012 Performances Collection - EP</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Something Like Olivia (Acoustic Live)</string>
+			<key>Persistent ID</key><string>BCD5BCB8C580DD66</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4804</key>
+		<dict>
+			<key>Track ID</key><integer>4804</integer>
+			<key>Name</key><string>Edge of Desire</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Battle Studies (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11561613</integer>
+			<key>Total Time</key><integer>331995</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2021-02-07T01:18:11Z</date>
+			<key>Date Added</key><date>2021-02-07T01:18:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3721562234</integer>
+			<key>Play Date UTC</key><date>2021-12-05T20:17:14Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-07-25T15:41:43Z</date>
+			<key>Release Date</key><date>2009-11-17T08:00:00Z</date>
+			<key>Normalization</key><integer>2103</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Battle Studies (Deluxe Version)</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Edge of Desire</string>
+			<key>Persistent ID</key><string>6117841786A59520</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4806</key>
+		<dict>
+			<key>Track ID</key><integer>4806</integer>
+			<key>Name</key><string>Waitin' On the Day</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Paradise Valley</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9527558</integer>
+			<key>Total Time</key><integer>275440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2021-02-08T16:35:42Z</date>
+			<key>Date Added</key><date>2021-02-08T16:35:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3721764939</integer>
+			<key>Play Date UTC</key><date>2021-12-08T04:35:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-12-25T04:56:14Z</date>
+			<key>Release Date</key><date>2013-08-16T07:00:00Z</date>
+			<key>Normalization</key><integer>1944</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Paradise Valley</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Waitin' On the Day</string>
+			<key>Persistent ID</key><string>8FAB86A7EEDAB02D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4808</key>
+		<dict>
+			<key>Track ID</key><integer>4808</integer>
+			<key>Name</key><string>Who You Love (feat. Katy Perry)</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer &#38; pending</string>
+			<key>Album</key><string>Paradise Valley</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8820284</integer>
+			<key>Total Time</key><integer>252706</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2021-02-08T16:40:36Z</date>
+			<key>Date Added</key><date>2021-02-08T16:40:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3719057710</integer>
+			<key>Play Date UTC</key><date>2021-11-06T19:35:10Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2021-08-18T13:28:51Z</date>
+			<key>Release Date</key><date>2013-08-16T07:00:00Z</date>
+			<key>Normalization</key><integer>1311</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Paradise Valley</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Who You Love (feat. Katy Perry)</string>
+			<key>Persistent ID</key><string>25DB29C35CEFC81E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4810</key>
+		<dict>
+			<key>Track ID</key><integer>4810</integer>
+			<key>Name</key><string>I Will Be Found (Lost At Sea)</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Paradise Valley</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8513246</integer>
+			<key>Total Time</key><integer>243600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2021-02-08T16:47:41Z</date>
+			<key>Date Added</key><date>2021-02-08T16:47:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3721889827</integer>
+			<key>Play Date UTC</key><date>2021-12-09T15:17:07Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2021-08-18T14:24:39Z</date>
+			<key>Release Date</key><date>2013-08-16T07:00:00Z</date>
+			<key>Normalization</key><integer>1837</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Paradise Valley</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>I Will Be Found (Lost At Sea)</string>
+			<key>Persistent ID</key><string>4C9E0CDB022786B8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4856</key>
+		<dict>
+			<key>Track ID</key><integer>4856</integer>
+			<key>Name</key><string>Whiskey, Whiskey, Whiskey</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Born and Raised</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9658153</integer>
+			<key>Total Time</key><integer>279440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2021-03-02T23:52:01Z</date>
+			<key>Date Added</key><date>2021-03-02T23:52:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3721242905</integer>
+			<key>Play Date UTC</key><date>2021-12-02T03:35:05Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-09-07T00:02:05Z</date>
+			<key>Release Date</key><date>2012-05-22T07:00:00Z</date>
+			<key>Normalization</key><integer>1879</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Born and Raised</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Whiskey, Whiskey, Whiskey</string>
+			<key>Persistent ID</key><string>68FE5F771EDCF79F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4870</key>
+		<dict>
+			<key>Track ID</key><integer>4870</integer>
+			<key>Name</key><string>Bigger Than My Body</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Heavier Things</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9754841</integer>
+			<key>Total Time</key><integer>266520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-03-30T17:29:59Z</date>
+			<key>Date Added</key><date>2021-03-30T17:29:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3715718838</integer>
+			<key>Play Date UTC</key><date>2021-09-29T04:07:18Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-08-18T15:18:22Z</date>
+			<key>Release Date</key><date>2003-08-01T07:00:00Z</date>
+			<key>Normalization</key><integer>7075</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Heavier Things</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Bigger Than My Body</string>
+			<key>Persistent ID</key><string>2105CD94256B7C9A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4872</key>
+		<dict>
+			<key>Track ID</key><integer>4872</integer>
+			<key>Name</key><string>3X5</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Room for Squares</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10178975</integer>
+			<key>Total Time</key><integer>289226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2021-03-30T16:30:14Z</date>
+			<key>Date Added</key><date>2021-03-30T16:30:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>50</integer>
+			<key>Play Date</key><integer>3723234683</integer>
+			<key>Play Date UTC</key><date>2021-12-25T04:51:23Z</date>
+			<key>Release Date</key><date>2001-06-05T07:00:00Z</date>
+			<key>Normalization</key><integer>4670</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Room for Squares</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>3X5</string>
+			<key>Persistent ID</key><string>6C421A1D5D85992B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4916</key>
+		<dict>
+			<key>Track ID</key><integer>4916</integer>
+			<key>Name</key><string>Wild Blue</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Sob Rock</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9253803</integer>
+			<key>Total Time</key><integer>252413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-06-04T16:02:53Z</date>
+			<key>Date Added</key><date>2021-07-16T03:07:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3721122518</integer>
+			<key>Play Date UTC</key><date>2021-11-30T18:08:38Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-08-18T14:04:52Z</date>
+			<key>Release Date</key><date>2021-07-16T12:00:00Z</date>
+			<key>Normalization</key><integer>2017</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sob Rock</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Wild Blue</string>
+			<key>Persistent ID</key><string>436BC824B9BDAC47</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4920</key>
+		<dict>
+			<key>Track ID</key><integer>4920</integer>
+			<key>Name</key><string>Shot in the Dark</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Sob Rock</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9026112</integer>
+			<key>Total Time</key><integer>249086</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-06-04T16:02:53Z</date>
+			<key>Date Added</key><date>2021-07-16T03:07:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3722835266</integer>
+			<key>Play Date UTC</key><date>2021-12-20T13:54:26Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-09-03T23:08:51Z</date>
+			<key>Release Date</key><date>2021-07-16T12:00:00Z</date>
+			<key>Normalization</key><integer>1915</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sob Rock</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Shot in the Dark</string>
+			<key>Persistent ID</key><string>60197FEBF4C83246</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4922</key>
+		<dict>
+			<key>Track ID</key><integer>4922</integer>
+			<key>Name</key><string>All I Want Is to Be With You</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Sob Rock</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8563354</integer>
+			<key>Total Time</key><integer>244140</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-06-04T16:02:53Z</date>
+			<key>Date Added</key><date>2021-07-18T00:49:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3721243326</integer>
+			<key>Play Date UTC</key><date>2021-12-02T03:42:06Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-12-07T15:06:02Z</date>
+			<key>Release Date</key><date>2021-07-16T12:00:00Z</date>
+			<key>Normalization</key><integer>3896</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sob Rock</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>All I Want Is to Be With You</string>
+			<key>Persistent ID</key><string>8020318276A9F603</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4924</key>
+		<dict>
+			<key>Track ID</key><integer>4924</integer>
+			<key>Name</key><string>Why You No Love Me</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Sob Rock</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9194366</integer>
+			<key>Total Time</key><integer>255207</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-06-04T16:02:53Z</date>
+			<key>Date Added</key><date>2021-07-16T03:07:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3721890296</integer>
+			<key>Play Date UTC</key><date>2021-12-09T15:24:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-12-24T23:15:19Z</date>
+			<key>Release Date</key><date>2021-07-16T12:00:00Z</date>
+			<key>Normalization</key><integer>2947</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sob Rock</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Why You No Love Me</string>
+			<key>Persistent ID</key><string>5DB8F664F4CBE384</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4926</key>
+		<dict>
+			<key>Track ID</key><integer>4926</integer>
+			<key>Name</key><string>Til the Right One Comes</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Sob Rock</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7780149</integer>
+			<key>Total Time</key><integer>219226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-06-04T16:02:53Z</date>
+			<key>Date Added</key><date>2021-07-18T00:49:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>84</integer>
+			<key>Play Date</key><integer>3723294767</integer>
+			<key>Play Date UTC</key><date>2021-12-25T21:32:47Z</date>
+			<key>Release Date</key><date>2021-07-16T12:00:00Z</date>
+			<key>Normalization</key><integer>1956</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sob Rock</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Til the Right One Comes</string>
+			<key>Persistent ID</key><string>47A02C2F433759EE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4928</key>
+		<dict>
+			<key>Track ID</key><integer>4928</integer>
+			<key>Name</key><string>Shouldn't Matter but It Does</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Sob Rock</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8362062</integer>
+			<key>Total Time</key><integer>236735</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-06-04T16:02:53Z</date>
+			<key>Date Added</key><date>2021-07-16T03:07:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3722976568</integer>
+			<key>Play Date UTC</key><date>2021-12-22T05:09:28Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-12-12T19:07:54Z</date>
+			<key>Release Date</key><date>2021-07-16T12:00:00Z</date>
+			<key>Normalization</key><integer>1366</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sob Rock</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Shouldn't Matter but It Does</string>
+			<key>Persistent ID</key><string>1832DA1768522D94</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4968</key>
+		<dict>
+			<key>Track ID</key><integer>4968</integer>
+			<key>Name</key><string>Last Train Home</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Sob Rock</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6585633</integer>
+			<key>Total Time</key><integer>187309</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-07-01T22:06:36Z</date>
+			<key>Date Added</key><date>2021-07-01T22:06:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3722703353</integer>
+			<key>Play Date UTC</key><date>2021-12-19T01:15:53Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-12-12T19:03:05Z</date>
+			<key>Release Date</key><date>2021-06-04T07:00:00Z</date>
+			<key>Normalization</key><integer>4549</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sob Rock</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Last Train Home</string>
+			<key>Persistent ID</key><string>85A7FD49A909B0E2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4988</key>
+		<dict>
+			<key>Track ID</key><integer>4988</integer>
+			<key>Name</key><string>Assassin</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Battle Studies (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10929307</integer>
+			<key>Total Time</key><integer>314844</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2021-07-08T20:41:39Z</date>
+			<key>Date Added</key><date>2021-07-08T20:41:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3723214890</integer>
+			<key>Play Date UTC</key><date>2021-12-24T23:21:30Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-12-24T23:16:10Z</date>
+			<key>Release Date</key><date>2009-11-17T08:00:00Z</date>
+			<key>Normalization</key><integer>1959</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Battle Studies (Deluxe Version)</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Assassin</string>
+			<key>Persistent ID</key><string>9E803E5B2D08022B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5004</key>
+		<dict>
+			<key>Track ID</key><integer>5004</integer>
+			<key>Name</key><string>Roll It on Home</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>The Search for Everything</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7178389</integer>
+			<key>Total Time</key><integer>204160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2021-07-19T19:50:44Z</date>
+			<key>Date Added</key><date>2021-07-19T19:50:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3723235208</integer>
+			<key>Play Date UTC</key><date>2021-12-25T05:00:08Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-11-17T23:30:44Z</date>
+			<key>Release Date</key><date>2017-02-24T12:00:00Z</date>
+			<key>Normalization</key><integer>3280</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Search for Everything</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Roll It on Home</string>
+			<key>Persistent ID</key><string>63379E68A2845CAE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5006</key>
+		<dict>
+			<key>Track ID</key><integer>5006</integer>
+			<key>Name</key><string>Born and Raised</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Born and Raised</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10151008</integer>
+			<key>Total Time</key><integer>289252</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2021-07-19T20:00:49Z</date>
+			<key>Date Added</key><date>2021-07-19T20:00:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3721890585</integer>
+			<key>Play Date UTC</key><date>2021-12-09T15:29:45Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-12-01T18:46:40Z</date>
+			<key>Release Date</key><date>2012-05-22T07:00:00Z</date>
+			<key>Normalization</key><integer>1585</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Born and Raised</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Born and Raised</string>
+			<key>Persistent ID</key><string>C2E749D643055B16</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5182</key>
+		<dict>
+			<key>Track ID</key><integer>5182</integer>
+			<key>Name</key><string>Paper Doll</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Paradise Valley</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9080080</integer>
+			<key>Total Time</key><integer>259960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2021-11-04T14:50:16Z</date>
+			<key>Date Added</key><date>2021-11-04T14:50:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3721764664</integer>
+			<key>Play Date UTC</key><date>2021-12-08T04:31:04Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-12-25T04:46:26Z</date>
+			<key>Release Date</key><date>2013-06-18T07:00:00Z</date>
+			<key>Normalization</key><integer>1174</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Paradise Valley</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Paper Doll</string>
+			<key>Persistent ID</key><string>B0D850484FBCC050</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5212</key>
+		<dict>
+			<key>Track ID</key><integer>5212</integer>
+			<key>Name</key><string>My Stupid Mouth</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Room for Squares</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7959551</integer>
+			<key>Total Time</key><integer>223960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2021-11-29T03:39:45Z</date>
+			<key>Date Added</key><date>2021-11-29T03:39:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3722976309</integer>
+			<key>Play Date UTC</key><date>2021-12-22T05:05:09Z</date>
+			<key>Release Date</key><date>2001-06-05T07:00:00Z</date>
+			<key>Normalization</key><integer>2980</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Room for Squares</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>My Stupid Mouth</string>
+			<key>Persistent ID</key><string>A3E64DDBE53ED3D0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5214</key>
+		<dict>
+			<key>Track ID</key><integer>5214</integer>
+			<key>Name</key><string>Belief</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12590617</integer>
+			<key>Total Time</key><integer>363440</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2021-11-30T19:38:50Z</date>
+			<key>Date Added</key><date>2021-11-30T19:38:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3722843335</integer>
+			<key>Play Date UTC</key><date>2021-12-20T16:08:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-12-12T19:03:11Z</date>
+			<key>Release Date</key><date>2008-07-01T07:00:00Z</date>
+			<key>Normalization</key><integer>4780</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Where the Light Is: John Mayer Live in Los Angeles</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Belief</string>
+			<key>Persistent ID</key><string>E015AC0DF4C69686</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5224</key>
+		<dict>
+			<key>Track ID</key><integer>5224</integer>
+			<key>Name</key><string>Shadow Days</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Born and Raised</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8046726</integer>
+			<key>Total Time</key><integer>230293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2021-12-24T04:17:47Z</date>
+			<key>Date Added</key><date>2021-12-24T04:17:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3723214502</integer>
+			<key>Play Date UTC</key><date>2021-12-24T23:15:02Z</date>
+			<key>Release Date</key><date>2012-03-06T08:00:00Z</date>
+			<key>Normalization</key><integer>1833</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Born and Raised</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Shadow Days</string>
+			<key>Persistent ID</key><string>7969CCD9EF993874</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5248</key>
+		<dict>
+			<key>Track ID</key><integer>5248</integer>
+			<key>Name</key><string>On the Way Home</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Paradise Valley</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8502203</integer>
+			<key>Total Time</key><integer>237361</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2022-02-08T07:48:09Z</date>
+			<key>Date Added</key><date>2022-02-08T07:48:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-08-16T07:00:00Z</date>
+			<key>Normalization</key><integer>1278</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Paradise Valley</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>On the Way Home</string>
+			<key>Persistent ID</key><string>9BE506BF92EAB13A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5290</key>
+		<dict>
+			<key>Track ID</key><integer>5290</integer>
+			<key>Name</key><string>I'm On Fire</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>Bruce Springsteen</string>
+			<key>Album</key><string>Battle Studies (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6054175</integer>
+			<key>Total Time</key><integer>172134</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2022-03-26T04:06:14Z</date>
+			<key>Date Added</key><date>2022-03-26T04:06:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-11-17T08:00:00Z</date>
+			<key>Normalization</key><integer>1094</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Battle Studies (Deluxe Version)</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>I'm On Fire</string>
+			<key>Persistent ID</key><string>88D6DC7F60B59E74</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Coach Mayer</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>9352</integer>
+			<key>Playlist Persistent ID</key><string>B7B874A789123A2B</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>4334</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4206</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4318</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4164</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4202</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4196</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4200</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4198</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4188</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4190</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4208</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4194</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3038</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4282</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4310</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4284</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4294</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4232</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4330</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4292</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4192</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4360</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4350</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4362</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4326</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4380</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4324</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4368</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4372</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4376</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4186</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4382</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4306</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4398</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4378</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4520</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4468</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4462</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4508</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4530</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4550</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4358</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4524</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4548</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4546</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4526</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4804</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4806</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4808</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4810</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4856</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4870</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5004</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4926</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4988</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4872</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4968</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4920</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4916</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5006</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4340</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4344</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4356</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4922</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4924</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4928</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5182</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5212</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5214</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5224</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5248</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5290</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

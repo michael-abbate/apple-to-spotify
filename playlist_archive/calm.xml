@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-07-15T13:42:05Z</date>
+	<key>Application Version</key><string>1.2.1.40</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/mabbate/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>E21F834E554F8E23</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4386</key>
+		<dict>
+			<key>Track ID</key><integer>4386</integer>
+			<key>Name</key><string>better off</string>
+			<key>Artist</key><string>Jeremy Zucker &#38; Chelsea Cutler</string>
+			<key>Album Artist</key><string>Jeremy Zucker</string>
+			<key>Composer</key><string>Jeremy Zucker, Chelsea Cutler &#38; Danny Rakow</string>
+			<key>Album</key><string>glisten - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6954387</integer>
+			<key>Total Time</key><integer>193946</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-08-22T01:28:22Z</date>
+			<key>Date Added</key><date>2019-08-22T01:28:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3719141928</integer>
+			<key>Play Date UTC</key><date>2021-11-07T19:58:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-10-01T18:55:06Z</date>
+			<key>Release Date</key><date>2018-05-04T12:00:00Z</date>
+			<key>Normalization</key><integer>1326</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>glisten - EP</string>
+			<key>Sort Artist</key><string>Jeremy Zucker &#38; Chelsea Cutler</string>
+			<key>Sort Name</key><string>better off</string>
+			<key>Persistent ID</key><string>665D7016B1C1B10C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4974</key>
+		<dict>
+			<key>Track ID</key><integer>4974</integer>
+			<key>Name</key><string>you were good to me</string>
+			<key>Artist</key><string>Jeremy Zucker &#38; Chelsea Cutler</string>
+			<key>Album Artist</key><string>Jeremy Zucker &#38; Chelsea Cutler</string>
+			<key>Composer</key><string>Jeremy Zucker &#38; Chelsea Cutler</string>
+			<key>Album</key><string>brent - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7770818</integer>
+			<key>Total Time</key><integer>219146</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2021-07-07T21:36:07Z</date>
+			<key>Date Added</key><date>2021-07-07T21:36:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3719140633</integer>
+			<key>Play Date UTC</key><date>2021-11-07T19:37:13Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2021-11-06T16:56:44Z</date>
+			<key>Release Date</key><date>2019-04-19T12:00:00Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>brent - EP</string>
+			<key>Sort Artist</key><string>Jeremy Zucker &#38; Chelsea Cutler</string>
+			<key>Sort Name</key><string>you were good to me</string>
+			<key>Persistent ID</key><string>50DEE071251A947D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5076</key>
+		<dict>
+			<key>Track ID</key><integer>5076</integer>
+			<key>Name</key><string>Jennifer Street</string>
+			<key>Artist</key><string>MASØN &#38; Braden Mason</string>
+			<key>Album Artist</key><string>MASØN &#38; Braden Mason</string>
+			<key>Composer</key><string>Braden Mason, Mason Dies &#38; Jadyn Till</string>
+			<key>Album</key><string>Jennifer Street - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8864022</integer>
+			<key>Total Time</key><integer>252185</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2021-09-11T23:22:26Z</date>
+			<key>Date Added</key><date>2021-09-11T23:22:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3719047055</integer>
+			<key>Play Date UTC</key><date>2021-11-06T16:37:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-02T02:34:03Z</date>
+			<key>Release Date</key><date>2019-11-22T12:00:00Z</date>
+			<key>Normalization</key><integer>1708</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Jennifer Street - Single</string>
+			<key>Sort Artist</key><string>MASØN &#38; Braden Mason</string>
+			<key>Sort Name</key><string>Jennifer Street</string>
+			<key>Persistent ID</key><string>E98CCA264CA45A42</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5084</key>
+		<dict>
+			<key>Track ID</key><integer>5084</integer>
+			<key>Name</key><string>ILYSB (Stripped)</string>
+			<key>Artist</key><string>LANY</string>
+			<key>Album Artist</key><string>LANY</string>
+			<key>Composer</key><string>Paul Jason Klein, Les Priest, Jake Goss &#38; Oskar Sikow</string>
+			<key>Album</key><string>Make Out - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8615349</integer>
+			<key>Total Time</key><integer>244820</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2021-09-21T15:08:50Z</date>
+			<key>Date Added</key><date>2021-09-21T15:08:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3719047300</integer>
+			<key>Play Date UTC</key><date>2021-11-06T16:41:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-02T02:34:00Z</date>
+			<key>Release Date</key><date>2015-12-11T12:00:00Z</date>
+			<key>Normalization</key><integer>2313</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Make Out - EP</string>
+			<key>Sort Artist</key><string>LANY</string>
+			<key>Sort Name</key><string>ILYSB (Stripped)</string>
+			<key>Persistent ID</key><string>B71C43B82A47E489</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5092</key>
+		<dict>
+			<key>Track ID</key><integer>5092</integer>
+			<key>Name</key><string>24 / 7 / 365</string>
+			<key>Artist</key><string>Surfaces</string>
+			<key>Album Artist</key><string>Surfaces</string>
+			<key>Album</key><string>Surf</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6362565</integer>
+			<key>Total Time</key><integer>177000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2021-09-21T16:29:55Z</date>
+			<key>Date Added</key><date>2021-09-21T16:29:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3719047973</integer>
+			<key>Play Date UTC</key><date>2021-11-06T16:52:53Z</date>
+			<key>Release Date</key><date>2017-12-03T12:00:00Z</date>
+			<key>Normalization</key><integer>3003</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Surf</string>
+			<key>Sort Artist</key><string>Surfaces</string>
+			<key>Sort Name</key><string>24 / 7 / 365</string>
+			<key>Persistent ID</key><string>479C943A62CC704C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5096</key>
+		<dict>
+			<key>Track ID</key><integer>5096</integer>
+			<key>Name</key><string>Malibu Interlude</string>
+			<key>Artist</key><string>Surfaces</string>
+			<key>Album Artist</key><string>Surfaces</string>
+			<key>Composer</key><string>Forrest Frank, Colin Padalecki &#38; Conrad Hsiang</string>
+			<key>Album</key><string>Pacifico (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4046573</integer>
+			<key>Total Time</key><integer>108802</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T17:40:12Z</date>
+			<key>Date Added</key><date>2021-09-21T17:40:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3719049837</integer>
+			<key>Play Date UTC</key><date>2021-11-06T17:23:57Z</date>
+			<key>Release Date</key><date>2021-06-25T12:00:00Z</date>
+			<key>Normalization</key><integer>2363</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pacifico (Deluxe)</string>
+			<key>Sort Artist</key><string>Surfaces</string>
+			<key>Sort Name</key><string>Malibu Interlude</string>
+			<key>Persistent ID</key><string>5A137EA0FDD0BA64</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5098</key>
+		<dict>
+			<key>Track ID</key><integer>5098</integer>
+			<key>Name</key><string>Hideaway</string>
+			<key>Artist</key><string>Surfaces</string>
+			<key>Album Artist</key><string>Surfaces</string>
+			<key>Composer</key><string>Forrest Frank, Colin Padalecki &#38; Conrad Hsiang</string>
+			<key>Album</key><string>Pacifico (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7897742</integer>
+			<key>Total Time</key><integer>219418</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T16:45:53Z</date>
+			<key>Date Added</key><date>2021-09-21T16:45:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3719048193</integer>
+			<key>Play Date UTC</key><date>2021-11-06T16:56:33Z</date>
+			<key>Release Date</key><date>2021-06-25T12:00:00Z</date>
+			<key>Normalization</key><integer>2937</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pacifico (Deluxe)</string>
+			<key>Sort Artist</key><string>Surfaces</string>
+			<key>Sort Name</key><string>Hideaway</string>
+			<key>Persistent ID</key><string>743F20AC01EEF183</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5100</key>
+		<dict>
+			<key>Track ID</key><integer>5100</integer>
+			<key>Name</key><string>Come With Me</string>
+			<key>Artist</key><string>Surfaces &#38; salem ilese</string>
+			<key>Album Artist</key><string>Surfaces</string>
+			<key>Composer</key><string>Forrest Frank, Colin Padalecki &#38; Conrad Hsiang</string>
+			<key>Album</key><string>Pacifico (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7490851</integer>
+			<key>Total Time</key><integer>209732</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T18:52:02Z</date>
+			<key>Date Added</key><date>2021-09-21T18:52:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3719047510</integer>
+			<key>Play Date UTC</key><date>2021-11-06T16:45:10Z</date>
+			<key>Release Date</key><date>2021-06-25T12:00:00Z</date>
+			<key>Normalization</key><integer>2120</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pacifico (Deluxe)</string>
+			<key>Sort Artist</key><string>Surfaces &#38; salem ilese</string>
+			<key>Sort Name</key><string>Come With Me</string>
+			<key>Persistent ID</key><string>BF5CE0DE040FBA49</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5104</key>
+		<dict>
+			<key>Track ID</key><integer>5104</integer>
+			<key>Name</key><string>Come Around</string>
+			<key>Artist</key><string>Surfaces &#38; Xavier Omär</string>
+			<key>Album Artist</key><string>Surfaces</string>
+			<key>Composer</key><string>Xavier Omär, Forrest Frank &#38; Colin Padalecki</string>
+			<key>Album</key><string>Pacifico (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6813280</integer>
+			<key>Total Time</key><integer>186631</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-22T13:52:45Z</date>
+			<key>Date Added</key><date>2021-09-22T13:52:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3719046803</integer>
+			<key>Play Date UTC</key><date>2021-11-06T16:33:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-09-28T15:20:57Z</date>
+			<key>Release Date</key><date>2021-06-25T12:00:00Z</date>
+			<key>Normalization</key><integer>3959</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pacifico (Deluxe)</string>
+			<key>Sort Artist</key><string>Surfaces &#38; Xavier Omär</string>
+			<key>Sort Name</key><string>Come Around</string>
+			<key>Persistent ID</key><string>8CDAF787543DBB4C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5122</key>
+		<dict>
+			<key>Track ID</key><integer>5122</integer>
+			<key>Name</key><string>Yours</string>
+			<key>Artist</key><string>Surfaces</string>
+			<key>Album Artist</key><string>Surfaces</string>
+			<key>Composer</key><string>Forrest Frank &#38; Colin Padalecki</string>
+			<key>Album</key><string>Pacifico</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6246487</integer>
+			<key>Total Time</key><integer>167857</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-10-15T21:58:56Z</date>
+			<key>Date Added</key><date>2021-10-15T21:58:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3719050216</integer>
+			<key>Play Date UTC</key><date>2021-11-06T17:30:16Z</date>
+			<key>Release Date</key><date>2021-06-25T12:00:00Z</date>
+			<key>Normalization</key><integer>1350</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pacifico</string>
+			<key>Sort Artist</key><string>Surfaces</string>
+			<key>Sort Name</key><string>Yours</string>
+			<key>Persistent ID</key><string>CA74067BDE0857EF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5124</key>
+		<dict>
+			<key>Track ID</key><integer>5124</integer>
+			<key>Name</key><string>Pacifico</string>
+			<key>Artist</key><string>Surfaces</string>
+			<key>Album Artist</key><string>Surfaces</string>
+			<key>Composer</key><string>Forrest Frank, Colin Padalecki &#38; Conrad Hsiang</string>
+			<key>Album</key><string>Pacifico</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7592989</integer>
+			<key>Total Time</key><integer>211071</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-10-15T22:03:11Z</date>
+			<key>Date Added</key><date>2021-10-15T22:03:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3722593963</integer>
+			<key>Play Date UTC</key><date>2021-12-17T18:52:43Z</date>
+			<key>Release Date</key><date>2021-06-25T12:00:00Z</date>
+			<key>Normalization</key><integer>1908</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pacifico</string>
+			<key>Sort Artist</key><string>Surfaces</string>
+			<key>Sort Name</key><string>Pacifico</string>
+			<key>Persistent ID</key><string>54A48C8C7D515EEF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5218</key>
+		<dict>
+			<key>Track ID</key><integer>5218</integer>
+			<key>Name</key><string>Keep It Gold</string>
+			<key>Artist</key><string>Surfaces</string>
+			<key>Album Artist</key><string>Surfaces</string>
+			<key>Composer</key><string>Colin Padalecki &#38; Forrest Frank</string>
+			<key>Album</key><string>Horizons</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8798916</integer>
+			<key>Total Time</key><integer>247813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-12-11T19:26:05Z</date>
+			<key>Date Added</key><date>2021-12-11T19:26:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3722094268</integer>
+			<key>Play Date UTC</key><date>2021-12-12T00:04:28Z</date>
+			<key>Release Date</key><date>2020-02-28T12:00:00Z</date>
+			<key>Normalization</key><integer>3513</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Horizons</string>
+			<key>Sort Artist</key><string>Surfaces</string>
+			<key>Sort Name</key><string>Keep It Gold</string>
+			<key>Persistent ID</key><string>D033BFF44DD91C34</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5270</key>
+		<dict>
+			<key>Track ID</key><integer>5270</integer>
+			<key>Name</key><string>Right Way Round (Acoustic)</string>
+			<key>Artist</key><string>Saint Raymond</string>
+			<key>Album Artist</key><string>Saint Raymond</string>
+			<key>Composer</key><string>Callum Burrows, Nick Atkinson &#38; Ed Holloway</string>
+			<key>Album</key><string>Right Way Round (Acoustic) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6698709</integer>
+			<key>Total Time</key><integer>186899</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-03-07T22:04:10Z</date>
+			<key>Date Added</key><date>2022-03-07T22:04:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-17T12:00:00Z</date>
+			<key>Normalization</key><integer>833</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Right Way Round (Acoustic) - Single</string>
+			<key>Sort Artist</key><string>Saint Raymond</string>
+			<key>Sort Name</key><string>Right Way Round (Acoustic)</string>
+			<key>Persistent ID</key><string>9752802820E2042F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5362</key>
+		<dict>
+			<key>Track ID</key><integer>5362</integer>
+			<key>Name</key><string>Lost in My Mind</string>
+			<key>Artist</key><string>The Head and the Heart</string>
+			<key>Album Artist</key><string>The Head and the Heart</string>
+			<key>Composer</key><string>Christopher Zasche, Kenneth Hensley, Jonathan Russell, Robert Tyler Williams, Josiah Johnson &#38; Charity Rose Thielen</string>
+			<key>Album</key><string>The Head and the Heart</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9158228</integer>
+			<key>Total Time</key><integer>259120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2022-06-07T13:21:57Z</date>
+			<key>Date Added</key><date>2022-06-07T13:21:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Release Date</key><date>2010-06-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Head and the Heart</string>
+			<key>Sort Album Artist</key><string>Head and the Heart</string>
+			<key>Sort Artist</key><string>Head and the Heart</string>
+			<key>Sort Name</key><string>Lost in My Mind</string>
+			<key>Persistent ID</key><string>3196C694A8CC0CB6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5364</key>
+		<dict>
+			<key>Track ID</key><integer>5364</integer>
+			<key>Name</key><string>All We Ever Knew</string>
+			<key>Artist</key><string>The Head and the Heart</string>
+			<key>Album Artist</key><string>The Head and the Heart</string>
+			<key>Composer</key><string>Charity Rose Thielen, The Head and the Heart, Chris Zasche, Jonathan Russell, Josiah Johnson, Kenny Hensley &#38; Tyler Williams</string>
+			<key>Album</key><string>Signs of Light</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8380547</integer>
+			<key>Total Time</key><integer>225560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2022-06-07T13:40:16Z</date>
+			<key>Date Added</key><date>2022-06-07T13:40:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-06-03T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Signs of Light</string>
+			<key>Sort Album Artist</key><string>Head and the Heart</string>
+			<key>Sort Artist</key><string>Head and the Heart</string>
+			<key>Sort Name</key><string>All We Ever Knew</string>
+			<key>Persistent ID</key><string>2D14A099B8386714</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5366</key>
+		<dict>
+			<key>Track ID</key><integer>5366</integer>
+			<key>Name</key><string>Rivers and Roads</string>
+			<key>Artist</key><string>The Head and the Heart</string>
+			<key>Album Artist</key><string>The Head and the Heart</string>
+			<key>Composer</key><string>Christopher Zasche, Kenneth Hensley, Jonathan Russell, Robert Tyler Williams, Josiah Johnson &#38; Charity Rose Thielen</string>
+			<key>Album</key><string>The Head and the Heart</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9884951</integer>
+			<key>Total Time</key><integer>284000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2022-06-08T01:55:17Z</date>
+			<key>Date Added</key><date>2022-06-08T01:55:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Release Date</key><date>2010-06-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Head and the Heart</string>
+			<key>Sort Album Artist</key><string>Head and the Heart</string>
+			<key>Sort Artist</key><string>Head and the Heart</string>
+			<key>Sort Name</key><string>Rivers and Roads</string>
+			<key>Persistent ID</key><string>AAB173972982C158</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5368</key>
+		<dict>
+			<key>Track ID</key><integer>5368</integer>
+			<key>Name</key><string>Ghosts</string>
+			<key>Artist</key><string>The Head and the Heart</string>
+			<key>Album Artist</key><string>The Head and the Heart</string>
+			<key>Composer</key><string>Kenneth Hensley, Christopher Zasche, Jonathan Russell, Robert Tyler Williams, Josiah Johnson &#38; Charity Rose Thielen</string>
+			<key>Album</key><string>The Head and the Heart</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9439029</integer>
+			<key>Total Time</key><integer>258640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2022-06-08T01:55:29Z</date>
+			<key>Date Added</key><date>2022-06-08T01:55:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Release Date</key><date>2010-06-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Head and the Heart</string>
+			<key>Sort Album Artist</key><string>Head and the Heart</string>
+			<key>Sort Artist</key><string>Head and the Heart</string>
+			<key>Sort Name</key><string>Ghosts</string>
+			<key>Persistent ID</key><string>D1DBE8E44653B4E0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5370</key>
+		<dict>
+			<key>Track ID</key><integer>5370</integer>
+			<key>Name</key><string>Down in the Valley</string>
+			<key>Artist</key><string>The Head and the Heart</string>
+			<key>Album Artist</key><string>The Head and the Heart</string>
+			<key>Composer</key><string>Christopher Zasche, Kenneth Hensley, Jonathan Russell, Josiah Johnson, Robert Tyler Williams &#38; Charity Rose Thielen</string>
+			<key>Album</key><string>The Head and the Heart</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10777436</integer>
+			<key>Total Time</key><integer>303653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2022-06-08T01:56:31Z</date>
+			<key>Date Added</key><date>2022-06-08T01:56:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Release Date</key><date>2010-06-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Head and the Heart</string>
+			<key>Sort Album Artist</key><string>Head and the Heart</string>
+			<key>Sort Artist</key><string>Head and the Heart</string>
+			<key>Sort Name</key><string>Down in the Valley</string>
+			<key>Persistent ID</key><string>390CE25C01F64371</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5372</key>
+		<dict>
+			<key>Track ID</key><integer>5372</integer>
+			<key>Name</key><string>Virginia (Wind In The Night)</string>
+			<key>Artist</key><string>The Head and the Heart</string>
+			<key>Album Artist</key><string>The Head and the Heart</string>
+			<key>Composer</key><string>Casey Smith, Charity Rose Thielen, Chris Zasche, Jesse Shatkin, Jonathan Russell, Kenny Hensley, Matthew Gervais &#38; Tyler Williams</string>
+			<key>Album</key><string>Every Shade of Blue</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7491173</integer>
+			<key>Total Time</key><integer>205293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-06-08T14:07:13Z</date>
+			<key>Date Added</key><date>2022-06-08T14:07:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-04-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Every Shade of Blue</string>
+			<key>Sort Album Artist</key><string>Head and the Heart</string>
+			<key>Sort Artist</key><string>Head and the Heart</string>
+			<key>Sort Name</key><string>Virginia (Wind In The Night)</string>
+			<key>Persistent ID</key><string>7BCDC2E1AB063102</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5486</key>
+		<dict>
+			<key>Track ID</key><integer>5486</integer>
+			<key>Name</key><string>Honeybee</string>
+			<key>Artist</key><string>The Head and the Heart</string>
+			<key>Album Artist</key><string>The Head and the Heart</string>
+			<key>Composer</key><string>Alex Salibian, Charity Rose Thielen, Chris Zasche, Jonathan Russell, Matthew Gervais, Ryn Weaver &#38; Tyler Williams</string>
+			<key>Album</key><string>Living Mirage</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6979578</integer>
+			<key>Total Time</key><integer>196055</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2022-07-06T15:50:59Z</date>
+			<key>Date Added</key><date>2022-07-06T15:50:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2019-03-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Living Mirage</string>
+			<key>Sort Album Artist</key><string>Head and the Heart</string>
+			<key>Sort Artist</key><string>Head and the Heart</string>
+			<key>Sort Name</key><string>Honeybee</string>
+			<key>Persistent ID</key><string>8D6D260E7309EE41</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Calm</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>9329</integer>
+			<key>Playlist Persistent ID</key><string>5FED7169A144D64D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>5096</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5084</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5092</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4974</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4386</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5076</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5098</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5100</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5104</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5218</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5270</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5362</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5366</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5370</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5364</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5368</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5372</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5486</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

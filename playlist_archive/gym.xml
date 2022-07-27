@@ -1,0 +1,1412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-07-11T16:20:04Z</date>
+	<key>Application Version</key><string>1.2.1.40</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/mabbate/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>E21F834E554F8E23</string>
+	<key>Tracks</key>
+	<dict>
+		<key>2801</key>
+		<dict>
+			<key>Track ID</key><integer>2801</integer>
+			<key>Name</key><string>This Is What It Feels Like (feat. Trevor Guthrie)</string>
+			<key>Artist</key><string>Armin van Buuren</string>
+			<key>Album Artist</key><string>Armin van Buuren</string>
+			<key>Composer</key><string>A. van Buuren/B. de Goeij/J. Vaughan/T. Guthrie/J. Ewbank</string>
+			<key>Album</key><string>Intense (Bonus Track Version)</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7516111</integer>
+			<key>Total Time</key><integer>203306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-08-28T18:18:51Z</date>
+			<key>Date Added</key><date>2016-10-27T04:36:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>54</integer>
+			<key>Play Date</key><integer>3661172288</integer>
+			<key>Play Date UTC</key><date>2020-01-06T21:18:08Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2016-10-27T17:50:18Z</date>
+			<key>Release Date</key><date>2013-04-08T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Intense (Bonus Track Version)</string>
+			<key>Sort Artist</key><string>Armin van Buuren</string>
+			<key>Sort Name</key><string>This Is What It Feels Like (feat. Trevor Guthrie)</string>
+			<key>Persistent ID</key><string>D2BA29DA8AEA8B03</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2883</key>
+		<dict>
+			<key>Track ID</key><integer>2883</integer>
+			<key>Name</key><string>Spectrum (feat. Matthew Koma)</string>
+			<key>Artist</key><string>Zedd</string>
+			<key>Album Artist</key><string>Zedd</string>
+			<key>Composer</key><string>Matthew Bair &#38; Zedd</string>
+			<key>Album</key><string>Clarity</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8595864</integer>
+			<key>Total Time</key><integer>243440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2016-11-04T04:07:33Z</date>
+			<key>Date Added</key><date>2016-12-11T04:07:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3676798003</integer>
+			<key>Play Date UTC</key><date>2020-07-05T16:46:43Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2020-08-07T02:10:15Z</date>
+			<key>Release Date</key><date>2012-10-09T07:00:00Z</date>
+			<key>Normalization</key><integer>5002</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Clarity</string>
+			<key>Sort Artist</key><string>Zedd</string>
+			<key>Sort Name</key><string>Spectrum (feat. Matthew Koma)</string>
+			<key>Persistent ID</key><string>1C54AF89F795C034</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3183</key>
+		<dict>
+			<key>Track ID</key><integer>3183</integer>
+			<key>Name</key><string>Alive</string>
+			<key>Artist</key><string>Krewella</string>
+			<key>Album Artist</key><string>Krewella</string>
+			<key>Composer</key><string>Jahan Yousaf, Kristopher Trindl &#38; Yasmine Yousaf</string>
+			<key>Album</key><string>Play Hard - EP</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10298389</integer>
+			<key>Total Time</key><integer>290760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-07-28T18:15:44Z</date>
+			<key>Date Added</key><date>2017-07-28T18:15:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3592078428</integer>
+			<key>Play Date UTC</key><date>2017-10-29T03:33:48Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2018-12-31T21:42:01Z</date>
+			<key>Release Date</key><date>2012-06-18T07:00:00Z</date>
+			<key>Normalization</key><integer>10501</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Play Hard - EP</string>
+			<key>Sort Artist</key><string>Krewella</string>
+			<key>Sort Name</key><string>Alive</string>
+			<key>Persistent ID</key><string>0B47A34E8A92A034</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3185</key>
+		<dict>
+			<key>Track ID</key><integer>3185</integer>
+			<key>Name</key><string>Let Me Hold You (Turn Me On)</string>
+			<key>Artist</key><string>Cheat Codes &#38; Dante Klein</string>
+			<key>Album Artist</key><string>Cheat Codes &#38; Dante Klein</string>
+			<key>Composer</key><string>Raeon Primus, Arnold Hennings, Courtney Sills, DA 12 Music, Daron Jones, Kevin Lyttle, Marvin Scandrick, Michael Keith, Quiness Parker &#38; Quinnes Parker</string>
+			<key>Album</key><string>Let Me Hold You (Turn Me On) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5903885</integer>
+			<key>Total Time</key><integer>162425</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-07-28T20:54:28Z</date>
+			<key>Date Added</key><date>2017-07-28T20:54:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>98</integer>
+			<key>Play Date</key><integer>3715061943</integer>
+			<key>Play Date UTC</key><date>2021-09-21T13:39:03Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-06-11T15:31:06Z</date>
+			<key>Release Date</key><date>2016-07-01T12:00:00Z</date>
+			<key>Normalization</key><integer>7808</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Let Me Hold You (Turn Me On) - Single</string>
+			<key>Sort Artist</key><string>Cheat Codes &#38; Dante Klein</string>
+			<key>Sort Name</key><string>Let Me Hold You (Turn Me On)</string>
+			<key>Persistent ID</key><string>BC197C09465BCE89</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3223</key>
+		<dict>
+			<key>Track ID</key><integer>3223</integer>
+			<key>Name</key><string>Light It Up (feat. Nyla &#38; Fuse ODG) [Remix]</string>
+			<key>Artist</key><string>Major Lazer</string>
+			<key>Album Artist</key><string>Major Lazer</string>
+			<key>Album</key><string>Peace Is The Mission (Extended)</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6205484</integer>
+			<key>Total Time</key><integer>166138</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-08-04T18:14:57Z</date>
+			<key>Date Added</key><date>2017-08-04T18:14:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3698748216</integer>
+			<key>Play Date UTC</key><date>2021-03-16T18:03:36Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-02-23T13:34:50Z</date>
+			<key>Release Date</key><date>2015-06-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Peace Is The Mission (Extended)</string>
+			<key>Sort Artist</key><string>Major Lazer</string>
+			<key>Sort Name</key><string>Light It Up (feat. Nyla &#38; Fuse ODG) [Remix]</string>
+			<key>Persistent ID</key><string>29BFB6BF83877F51</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3717</key>
+		<dict>
+			<key>Track ID</key><integer>3717</integer>
+			<key>Name</key><string>Waiting For Love</string>
+			<key>Artist</key><string>Avicii</string>
+			<key>Album Artist</key><string>Avicii</string>
+			<key>Composer</key><string>Simon Aldred, Salem Fakir, Vincent Pontare, Tim Bergling &#38; Martin Garrix</string>
+			<key>Album</key><string>Stories</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8111442</integer>
+			<key>Total Time</key><integer>230614</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-04-25T22:55:39Z</date>
+			<key>Date Added</key><date>2018-04-25T22:55:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3720629168</integer>
+			<key>Play Date UTC</key><date>2021-11-25T01:06:08Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2021-05-22T22:24:53Z</date>
+			<key>Release Date</key><date>2015-10-02T00:00:00Z</date>
+			<key>Normalization</key><integer>6655</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stories</string>
+			<key>Sort Artist</key><string>Avicii</string>
+			<key>Sort Name</key><string>Waiting For Love</string>
+			<key>Persistent ID</key><string>28E0409F5E815E1C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3851</key>
+		<dict>
+			<key>Track ID</key><integer>3851</integer>
+			<key>Name</key><string>Symphony (feat. Zara Larsson)</string>
+			<key>Artist</key><string>Clean Bandit</string>
+			<key>Album Artist</key><string>Clean Bandit</string>
+			<key>Composer</key><string>Ammar Malik, Ina Wroldsen, Jack Patterson, Steve Mac &#38; Steve McCutcheon</string>
+			<key>Album</key><string>What Is Love? (Deluxe)</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7540282</integer>
+			<key>Total Time</key><integer>212733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-07-20T00:23:23Z</date>
+			<key>Date Added</key><date>2018-07-20T00:23:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3659990222</integer>
+			<key>Play Date UTC</key><date>2019-12-24T04:57:02Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-29T03:19:44Z</date>
+			<key>Release Date</key><date>2017-03-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>What Is Love? (Deluxe)</string>
+			<key>Sort Artist</key><string>Clean Bandit</string>
+			<key>Sort Name</key><string>Symphony (feat. Zara Larsson)</string>
+			<key>Persistent ID</key><string>8EB3E20C420C04C7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4155</key>
+		<dict>
+			<key>Track ID</key><integer>4155</integer>
+			<key>Name</key><string>Finest Hour (feat. Abir)</string>
+			<key>Artist</key><string>Cash Cash</string>
+			<key>Album Artist</key><string>Cash Cash</string>
+			<key>Composer</key><string>Abir Haronni, Alex Makhlouf, David Dalton, Frank Hendler, Jean Paul Makhlouf, Nathanial L John &#38; Samuel Frisch</string>
+			<key>Album</key><string>Finest Hour (feat. Abir) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7720382</integer>
+			<key>Total Time</key><integer>215781</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-02-25T05:41:46Z</date>
+			<key>Date Added</key><date>2019-02-25T05:41:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>55</integer>
+			<key>Play Date</key><integer>3711212597</integer>
+			<key>Play Date UTC</key><date>2021-08-08T00:23:17Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2021-08-05T22:10:56Z</date>
+			<key>Release Date</key><date>2018-04-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Finest Hour (feat. Abir) - Single</string>
+			<key>Sort Artist</key><string>Cash Cash</string>
+			<key>Sort Name</key><string>Finest Hour (feat. Abir)</string>
+			<key>Persistent ID</key><string>D76814668503D7CA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4407</key>
+		<dict>
+			<key>Track ID</key><integer>4407</integer>
+			<key>Name</key><string>Forgive Me Friend (feat. Swedish Jam Factory)</string>
+			<key>Artist</key><string>Smith &#38; Thell</string>
+			<key>Album Artist</key><string>Smith &#38; Thell</string>
+			<key>Composer</key><string>Maria Jane Smith &#38; Victor Thell</string>
+			<key>Album</key><string>Telephone Wires - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7775702</integer>
+			<key>Total Time</key><integer>216760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-09-26T23:54:21Z</date>
+			<key>Date Added</key><date>2019-09-26T23:54:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>120</integer>
+			<key>Play Date</key><integer>3716122689</integer>
+			<key>Play Date UTC</key><date>2021-10-03T20:18:09Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-10-31T12:08:20Z</date>
+			<key>Release Date</key><date>2018-11-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Telephone Wires - EP</string>
+			<key>Sort Artist</key><string>Smith &#38; Thell</string>
+			<key>Sort Name</key><string>Forgive Me Friend (feat. Swedish Jam Factory)</string>
+			<key>Persistent ID</key><string>C255AC8196925DD5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4409</key>
+		<dict>
+			<key>Track ID</key><integer>4409</integer>
+			<key>Name</key><string>Saturday Sun</string>
+			<key>Artist</key><string>Vance Joy</string>
+			<key>Album Artist</key><string>Vance Joy</string>
+			<key>Composer</key><string>Vance Joy &#38; Dave Bassett</string>
+			<key>Album</key><string>Nation of Two</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7640401</integer>
+			<key>Total Time</key><integer>214747</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-09-28T14:49:40Z</date>
+			<key>Date Added</key><date>2019-09-28T14:49:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>108</integer>
+			<key>Play Date</key><integer>3718991885</integer>
+			<key>Play Date UTC</key><date>2021-11-06T01:18:05Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-09-23T16:13:50Z</date>
+			<key>Release Date</key><date>2016-04-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nation of Two</string>
+			<key>Sort Artist</key><string>Vance Joy</string>
+			<key>Sort Name</key><string>Saturday Sun</string>
+			<key>Persistent ID</key><string>FF7264E10C7F1416</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4471</key>
+		<dict>
+			<key>Track ID</key><integer>4471</integer>
+			<key>Name</key><string>Chasing Fire</string>
+			<key>Artist</key><string>Lauv</string>
+			<key>Album Artist</key><string>Lauv</string>
+			<key>Composer</key><string>Brett Hite, James Sunderland, Michael Ross Pollack &#38; Ari Leff</string>
+			<key>Album</key><string>I met you when I was 18. (the playlist)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7303791</integer>
+			<key>Total Time</key><integer>205267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2020-01-25T07:58:48Z</date>
+			<key>Date Added</key><date>2020-01-25T07:58:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3716126648</integer>
+			<key>Play Date UTC</key><date>2021-10-03T21:24:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-09-14T19:59:08Z</date>
+			<key>Release Date</key><date>2018-03-29T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I met you when I was 18. (the playlist)</string>
+			<key>Sort Artist</key><string>Lauv</string>
+			<key>Sort Name</key><string>Chasing Fire</string>
+			<key>Persistent ID</key><string>A61310BEF5ABDF72</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4531</key>
+		<dict>
+			<key>Track ID</key><integer>4531</integer>
+			<key>Name</key><string>Lost in the Wild</string>
+			<key>Artist</key><string>WALK THE MOON</string>
+			<key>Album Artist</key><string>WALK THE MOON</string>
+			<key>Composer</key><string>Nicholas Petricca, Kevin Ray, Sean Waugaman, Eli Maiman &#38; John Ryan</string>
+			<key>Album</key><string>What If Nothing</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8656019</integer>
+			<key>Total Time</key><integer>235290</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-09-06T02:39:21Z</date>
+			<key>Date Added</key><date>2020-09-06T02:39:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>62</integer>
+			<key>Play Date</key><integer>3716127667</integer>
+			<key>Play Date UTC</key><date>2021-10-03T21:41:07Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-09-30T20:42:40Z</date>
+			<key>Release Date</key><date>2017-11-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>What If Nothing</string>
+			<key>Sort Artist</key><string>WALK THE MOON</string>
+			<key>Sort Name</key><string>Lost in the Wild</string>
+			<key>Persistent ID</key><string>DAD2B401E883A7EF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4533</key>
+		<dict>
+			<key>Track ID</key><integer>4533</integer>
+			<key>Name</key><string>Hollywood (feat. Penguin Prison)</string>
+			<key>Artist</key><string>RAC</string>
+			<key>Album Artist</key><string>RAC</string>
+			<key>Composer</key><string>André Allen Anjos &#38; Chris Glover</string>
+			<key>Album</key><string>Strangers</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7025875</integer>
+			<key>Total Time</key><integer>197466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2020-09-06T18:34:31Z</date>
+			<key>Date Added</key><date>2020-09-06T18:34:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>66</integer>
+			<key>Play Date</key><integer>3716120541</integer>
+			<key>Play Date UTC</key><date>2021-10-03T19:42:21Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-10-02T15:31:09Z</date>
+			<key>Release Date</key><date>2013-09-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Strangers</string>
+			<key>Sort Artist</key><string>RAC</string>
+			<key>Sort Name</key><string>Hollywood (feat. Penguin Prison)</string>
+			<key>Persistent ID</key><string>155A2DC34AEBA280</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4537</key>
+		<dict>
+			<key>Track ID</key><integer>4537</integer>
+			<key>Name</key><string>Take a Walk</string>
+			<key>Artist</key><string>Passion Pit</string>
+			<key>Album Artist</key><string>Passion Pit</string>
+			<key>Composer</key><string>Michael Angelakos</string>
+			<key>Album</key><string>Gossamer</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9251394</integer>
+			<key>Total Time</key><integer>264493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2020-09-07T21:48:28Z</date>
+			<key>Date Added</key><date>2020-09-07T21:48:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>68</integer>
+			<key>Play Date</key><integer>3720630265</integer>
+			<key>Play Date UTC</key><date>2021-11-25T01:24:25Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2021-10-02T23:30:17Z</date>
+			<key>Release Date</key><date>2012-05-08T07:00:00Z</date>
+			<key>Normalization</key><integer>4961</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gossamer</string>
+			<key>Sort Artist</key><string>Passion Pit</string>
+			<key>Sort Name</key><string>Take a Walk</string>
+			<key>Persistent ID</key><string>ADD58881D598C6BE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4545</key>
+		<dict>
+			<key>Track ID</key><integer>4545</integer>
+			<key>Name</key><string>Raging (feat. Kodaline)</string>
+			<key>Artist</key><string>Kygo</string>
+			<key>Album Artist</key><string>Kygo</string>
+			<key>Album</key><string>Cloud Nine</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7915603</integer>
+			<key>Total Time</key><integer>224486</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2020-09-29T17:12:46Z</date>
+			<key>Date Added</key><date>2020-09-29T17:12:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>66</integer>
+			<key>Play Date</key><integer>3720631603</integer>
+			<key>Play Date UTC</key><date>2021-11-25T01:46:43Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2021-10-03T19:02:02Z</date>
+			<key>Release Date</key><date>2016-04-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Cloud Nine</string>
+			<key>Sort Artist</key><string>Kygo</string>
+			<key>Sort Name</key><string>Raging (feat. Kodaline)</string>
+			<key>Persistent ID</key><string>B58E92FF2F0D366E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4821</key>
+		<dict>
+			<key>Track ID</key><integer>4821</integer>
+			<key>Name</key><string>HIGHER</string>
+			<key>Artist</key><string>Bishop Briggs</string>
+			<key>Album Artist</key><string>Bishop Briggs</string>
+			<key>Composer</key><string>Sarah McLaughlin, Jonathan Coffer &#38; John Newman</string>
+			<key>Album</key><string>HIGHER - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6992637</integer>
+			<key>Total Time</key><integer>193049</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-02-09T02:49:34Z</date>
+			<key>Date Added</key><date>2021-02-09T02:49:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3701270682</integer>
+			<key>Play Date UTC</key><date>2021-04-14T22:44:42Z</date>
+			<key>Release Date</key><date>2020-10-02T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>HIGHER - Single</string>
+			<key>Sort Artist</key><string>Bishop Briggs</string>
+			<key>Sort Name</key><string>HIGHER</string>
+			<key>Persistent ID</key><string>EC3941737886C740</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4893</key>
+		<dict>
+			<key>Track ID</key><integer>4893</integer>
+			<key>Name</key><string>Beside You (feat. Georgia Ku)</string>
+			<key>Artist</key><string>Matoma &#38; Captain Cuts</string>
+			<key>Album Artist</key><string>Matoma</string>
+			<key>Composer</key><string>Georgia Ku, Phoebe Ryan, Jussi Karvinen, Ben Berger, Ryan McMahon, Ryan Rabin &#38; Tom Stræte Lagergren</string>
+			<key>Album</key><string>RYTME - EP</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6518609</integer>
+			<key>Total Time</key><integer>176640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-05-29T17:54:35Z</date>
+			<key>Date Added</key><date>2021-05-29T17:54:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3715059251</integer>
+			<key>Play Date UTC</key><date>2021-09-21T12:54:11Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-11-05T21:56:14Z</date>
+			<key>Release Date</key><date>2020-05-08T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>RYTME - EP</string>
+			<key>Sort Artist</key><string>Matoma &#38; Captain Cuts</string>
+			<key>Sort Name</key><string>Beside You (feat. Georgia Ku)</string>
+			<key>Persistent ID</key><string>1036A217A81900CA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4895</key>
+		<dict>
+			<key>Track ID</key><integer>4895</integer>
+			<key>Name</key><string>Arms Around Me</string>
+			<key>Artist</key><string>Starley</string>
+			<key>Album Artist</key><string>Starley</string>
+			<key>Composer</key><string>Starley Hope &#38; Jon Hume</string>
+			<key>Album</key><string>Arms Around Me - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6860121</integer>
+			<key>Total Time</key><integer>181363</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-05-29T17:54:55Z</date>
+			<key>Date Added</key><date>2021-05-29T17:54:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3720630940</integer>
+			<key>Play Date UTC</key><date>2021-11-25T01:35:40Z</date>
+			<key>Release Date</key><date>2020-03-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Arms Around Me - Single</string>
+			<key>Sort Artist</key><string>Starley</string>
+			<key>Sort Name</key><string>Arms Around Me</string>
+			<key>Persistent ID</key><string>5902C76BA6848011</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4899</key>
+		<dict>
+			<key>Track ID</key><integer>4899</integer>
+			<key>Name</key><string>Let It Be</string>
+			<key>Artist</key><string>The Mamas</string>
+			<key>Album Artist</key><string>The Mamas</string>
+			<key>Composer</key><string>Herman Gardarfve, Patrik Jean &#38; Melanie Wehbe</string>
+			<key>Album</key><string>Tomorrow Is Waiting - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6700581</integer>
+			<key>Total Time</key><integer>186573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-05-29T17:55:28Z</date>
+			<key>Date Added</key><date>2021-05-29T17:55:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3720630000</integer>
+			<key>Play Date UTC</key><date>2021-11-25T01:20:00Z</date>
+			<key>Release Date</key><date>2020-05-15T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tomorrow Is Waiting - EP</string>
+			<key>Sort Album Artist</key><string>Mamas</string>
+			<key>Sort Artist</key><string>Mamas</string>
+			<key>Sort Name</key><string>Let It Be</string>
+			<key>Persistent ID</key><string>589838AD0FDB86B3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4901</key>
+		<dict>
+			<key>Track ID</key><integer>4901</integer>
+			<key>Name</key><string>Sun in Our Eyes</string>
+			<key>Artist</key><string>MØ &#38; Diplo</string>
+			<key>Album Artist</key><string>MØ &#38; Diplo</string>
+			<key>Composer</key><string>Karen Marie Ørsted, Thomas Wesley Pentz, Henry Allen, John Hill &#38; Ilsey Juber</string>
+			<key>Album</key><string>Sun in Our Eyes - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7784020</integer>
+			<key>Total Time</key><integer>217932</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2021-05-29T17:56:09Z</date>
+			<key>Date Added</key><date>2021-05-29T17:56:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3720630745</integer>
+			<key>Play Date UTC</key><date>2021-11-25T01:32:25Z</date>
+			<key>Release Date</key><date>2018-07-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sun in Our Eyes - Single</string>
+			<key>Sort Artist</key><string>MØ &#38; Diplo</string>
+			<key>Sort Name</key><string>Sun in Our Eyes</string>
+			<key>Persistent ID</key><string>4D25AEAEA3389FEC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5013</key>
+		<dict>
+			<key>Track ID</key><integer>5013</integer>
+			<key>Name</key><string>Never Love You Again (with Little Big Town &#38; Bryn Christopher)</string>
+			<key>Artist</key><string>Cheat Codes, Bryn Christopher &#38; Little Big Town</string>
+			<key>Album Artist</key><string>Cheat Codes, Little Big Town &#38; Bryn Christopher</string>
+			<key>Composer</key><string>Cheat Codes, Bryn Christopher, Andreas Krüger &#38; Andrew Jackson</string>
+			<key>Album</key><string>Never Love You Again (with Little Big Town &#38; Bryn Christopher) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6910275</integer>
+			<key>Total Time</key><integer>191330</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-07-22T16:38:06Z</date>
+			<key>Date Added</key><date>2021-07-22T16:38:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3713948429</integer>
+			<key>Play Date UTC</key><date>2021-09-08T16:20:29Z</date>
+			<key>Release Date</key><date>2021-07-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Never Love You Again (with Little Big Town &#38; Bryn Christopher) - Single</string>
+			<key>Sort Artist</key><string>Cheat Codes, Bryn Christopher &#38; Little Big Town</string>
+			<key>Sort Name</key><string>Never Love You Again (with Little Big Town &#38; Bryn Christopher)</string>
+			<key>Persistent ID</key><string>BD9C32BE91167E8A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5055</key>
+		<dict>
+			<key>Track ID</key><integer>5055</integer>
+			<key>Name</key><string>My Heart Goes (La Di Da)</string>
+			<key>Artist</key><string>Becky Hill &#38; Topic</string>
+			<key>Album Artist</key><string>Becky Hill</string>
+			<key>Composer</key><string>Rebecca Claire Hill, Charlotte Jane Haining, Josh Wilkinson, Linus Nordstrom &#38; Frank Nobel</string>
+			<key>Album</key><string>Only Honest On The Weekend</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5442062</integer>
+			<key>Total Time</key><integer>148960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-08-25T18:24:24Z</date>
+			<key>Date Added</key><date>2021-08-25T18:24:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3720629317</integer>
+			<key>Play Date UTC</key><date>2021-11-25T01:08:37Z</date>
+			<key>Release Date</key><date>2021-08-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Only Honest On The Weekend</string>
+			<key>Sort Artist</key><string>Becky Hill &#38; Topic</string>
+			<key>Sort Name</key><string>My Heart Goes (La Di Da)</string>
+			<key>Persistent ID</key><string>B5EA1F62F56F77CA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5061</key>
+		<dict>
+			<key>Track ID</key><integer>5061</integer>
+			<key>Name</key><string>Heat Waves</string>
+			<key>Artist</key><string>Glass Animals</string>
+			<key>Album Artist</key><string>Glass Animals</string>
+			<key>Composer</key><string>Dave Bayley</string>
+			<key>Album</key><string>Dreamland</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8632158</integer>
+			<key>Total Time</key><integer>238805</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-09-09T02:22:47Z</date>
+			<key>Date Added</key><date>2021-09-09T02:22:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3715247610</integer>
+			<key>Play Date UTC</key><date>2021-09-23T17:13:30Z</date>
+			<key>Release Date</key><date>2020-08-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dreamland</string>
+			<key>Sort Artist</key><string>Glass Animals</string>
+			<key>Sort Name</key><string>Heat Waves</string>
+			<key>Persistent ID</key><string>330C3F775B350AEB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5079</key>
+		<dict>
+			<key>Track ID</key><integer>5079</integer>
+			<key>Name</key><string>Good Girls</string>
+			<key>Artist</key><string>LANY</string>
+			<key>Album Artist</key><string>LANY</string>
+			<key>Composer</key><string>Jake Clifford Goss, Les Priest, Paul Klein &#38; John Luke Lewis</string>
+			<key>Album</key><string>LANY</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9196901</integer>
+			<key>Total Time</key><integer>249379</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2021-09-21T16:51:51Z</date>
+			<key>Date Added</key><date>2021-09-21T16:51:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3716053458</integer>
+			<key>Play Date UTC</key><date>2021-10-03T01:04:18Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-10-03T00:37:09Z</date>
+			<key>Release Date</key><date>2017-06-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>LANY</string>
+			<key>Sort Artist</key><string>LANY</string>
+			<key>Sort Name</key><string>Good Girls</string>
+			<key>Persistent ID</key><string>E69FC4313DA69DB4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5105</key>
+		<dict>
+			<key>Track ID</key><integer>5105</integer>
+			<key>Name</key><string>Lightning (feat. John Rzeznik)</string>
+			<key>Artist</key><string>Cash Cash</string>
+			<key>Album Artist</key><string>Cash Cash</string>
+			<key>Composer</key><string>Alexander Luke Makhlouf, Jean Paul Makhlouf, John Rzeznik &#38; Samuel Warren Frisch</string>
+			<key>Album</key><string>Blood, Sweat &#38; 3 Years</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7897891</integer>
+			<key>Total Time</key><integer>213853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2021-10-06T20:25:51Z</date>
+			<key>Date Added</key><date>2021-10-06T20:25:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3722009814</integer>
+			<key>Play Date UTC</key><date>2021-12-11T00:36:54Z</date>
+			<key>Release Date</key><date>2014-03-24T12:00:00Z</date>
+			<key>Normalization</key><integer>10659</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blood, Sweat &#38; 3 Years</string>
+			<key>Sort Artist</key><string>Cash Cash</string>
+			<key>Sort Name</key><string>Lightning (feat. John Rzeznik)</string>
+			<key>Persistent ID</key><string>7B1F77C4C430B1A2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5107</key>
+		<dict>
+			<key>Track ID</key><integer>5107</integer>
+			<key>Name</key><string>Find You (feat. Matthew Koma &#38; Miriam Bryant)</string>
+			<key>Artist</key><string>Zedd</string>
+			<key>Album Artist</key><string>Zedd</string>
+			<key>Composer</key><string>Zedd, Matthew Koma, Miriam Bryant &#38; Victor Rådström</string>
+			<key>Album</key><string>Find You (feat. Matthew Koma &#38; Miriam Bryant) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7312288</integer>
+			<key>Total Time</key><integer>204223</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2021-10-06T21:34:28Z</date>
+			<key>Date Added</key><date>2021-10-06T21:34:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-01-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Find You (feat. Matthew Koma &#38; Miriam Bryant) - Single</string>
+			<key>Sort Artist</key><string>Zedd</string>
+			<key>Sort Name</key><string>Find You (feat. Matthew Koma &#38; Miriam Bryant)</string>
+			<key>Persistent ID</key><string>5955B474A0493CF2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5213</key>
+		<dict>
+			<key>Track ID</key><integer>5213</integer>
+			<key>Name</key><string>‘87 Stingray</string>
+			<key>Artist</key><string>Tory Lanez</string>
+			<key>Album Artist</key><string>Tory Lanez</string>
+			<key>Composer</key><string>Brent “Vikaden' Montgomery, Chazzz music, Daystar Peterson &#38; Orlando Williamson</string>
+			<key>Album</key><string>Alone At Prom</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5214821</integer>
+			<key>Total Time</key><integer>141333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-12-21T00:22:28Z</date>
+			<key>Date Added</key><date>2021-12-21T00:22:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Release Date</key><date>2021-12-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Alone At Prom</string>
+			<key>Sort Artist</key><string>Tory Lanez</string>
+			<key>Sort Name</key><string>‘87 Stingray</string>
+			<key>Persistent ID</key><string>9955F28856E7F529</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5249</key>
+		<dict>
+			<key>Track ID</key><integer>5249</integer>
+			<key>Name</key><string>Surrender</string>
+			<key>Artist</key><string>Cash Cash</string>
+			<key>Album Artist</key><string>Cash Cash</string>
+			<key>Composer</key><string>Alexander Luke Makhlouf, Jean Paul Makhlouf, Jonas Philip Patterson, Julia Michaels, Lindy Robbins, Linus Wiklund, Samuel Warren Frisch &#38; Tal Meltzer</string>
+			<key>Album</key><string>Blood, Sweat &#38; 3 Years</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7609165</integer>
+			<key>Total Time</key><integer>208133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2022-02-14T22:00:32Z</date>
+			<key>Date Added</key><date>2022-02-14T22:00:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-16T12:00:00Z</date>
+			<key>Normalization</key><integer>10609</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blood, Sweat &#38; 3 Years</string>
+			<key>Sort Artist</key><string>Cash Cash</string>
+			<key>Sort Name</key><string>Surrender</string>
+			<key>Persistent ID</key><string>5B6256B04E6D3C2E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5257</key>
+		<dict>
+			<key>Track ID</key><integer>5257</integer>
+			<key>Name</key><string>Beautiful Now (feat. Jon Bellion)</string>
+			<key>Artist</key><string>Zedd</string>
+			<key>Album Artist</key><string>Zedd</string>
+			<key>Composer</key><string>Zedd, Antonina Armato, Desmond Child, David Jost, T. Price &#38; J. Bellion</string>
+			<key>Album</key><string>True Colors</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7924663</integer>
+			<key>Total Time</key><integer>218293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2022-02-17T19:39:02Z</date>
+			<key>Date Added</key><date>2022-02-17T19:39:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-05-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>True Colors</string>
+			<key>Sort Artist</key><string>Zedd</string>
+			<key>Sort Name</key><string>Beautiful Now (feat. Jon Bellion)</string>
+			<key>Persistent ID</key><string>B89C1931431C75C8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5259</key>
+		<dict>
+			<key>Track ID</key><integer>5259</integer>
+			<key>Name</key><string>House On Fire</string>
+			<key>Artist</key><string>Mimi Webb</string>
+			<key>Album Artist</key><string>Mimi Webb</string>
+			<key>Composer</key><string>Mimi Webb, Pablo Bowman, Ines Dunn, Charlie Martin &#38; Joe Housley</string>
+			<key>Album</key><string>House On Fire - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5228727</integer>
+			<key>Total Time</key><integer>140803</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-03-04T00:20:43Z</date>
+			<key>Date Added</key><date>2022-03-04T00:20:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-02-18T12:00:00Z</date>
+			<key>Normalization</key><integer>6763</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>House On Fire - Single</string>
+			<key>Sort Artist</key><string>Mimi Webb</string>
+			<key>Sort Name</key><string>House On Fire</string>
+			<key>Persistent ID</key><string>A6BB3090CC2877A9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5261</key>
+		<dict>
+			<key>Track ID</key><integer>5261</integer>
+			<key>Name</key><string>Dancing Feet (feat. DNCE)</string>
+			<key>Artist</key><string>Kygo</string>
+			<key>Album Artist</key><string>Kygo</string>
+			<key>Composer</key><string>Kyrre Gørvell-Dahll, David Stewart, Jessica Agombar &#38; Rami Yacoub</string>
+			<key>Album</key><string>Dancing Feet (feat. DNCE) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7869664</integer>
+			<key>Total Time</key><integer>215203</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-03-07T03:30:57Z</date>
+			<key>Date Added</key><date>2022-03-07T03:30:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-02-25T12:00:00Z</date>
+			<key>Normalization</key><integer>6355</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dancing Feet (feat. DNCE) - Single</string>
+			<key>Sort Artist</key><string>Kygo</string>
+			<key>Sort Name</key><string>Dancing Feet (feat. DNCE)</string>
+			<key>Persistent ID</key><string>EBDEE8E5C173EA06</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5289</key>
+		<dict>
+			<key>Track ID</key><integer>5289</integer>
+			<key>Name</key><string>High</string>
+			<key>Artist</key><string>The Chainsmokers</string>
+			<key>Album Artist</key><string>The Chainsmokers</string>
+			<key>Composer</key><string>Jacob Kasher Hindlin, Nick Long, Alex Pall, Andrew Taggart, Natalie Salomon, Jeff Halavacs &#38; Ethan Snorek</string>
+			<key>Album</key><string>So Far So Good</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6423874</integer>
+			<key>Total Time</key><integer>175163</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-04-04T05:09:12Z</date>
+			<key>Date Added</key><date>2022-04-04T05:09:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-01-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>So Far So Good</string>
+			<key>Sort Album Artist</key><string>Chainsmokers</string>
+			<key>Sort Artist</key><string>Chainsmokers</string>
+			<key>Sort Name</key><string>High</string>
+			<key>Persistent ID</key><string>C31DE1AB6652258F</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5301</key>
+		<dict>
+			<key>Track ID</key><integer>5301</integer>
+			<key>Name</key><string>City of Gods</string>
+			<key>Artist</key><string>Fivio Foreign, Kanye West &#38; Alicia Keys</string>
+			<key>Album Artist</key><string>Fivio Foreign, Kanye West &#38; Alicia Keys</string>
+			<key>Composer</key><string>Fivio Foreign, Kanye West, Andrew Taggart, Delacey, Dwayne Abernathy Jr, MIKE DEAN, Allan Lopez, Aswad Asif, Malik Piper, Hamza Hamaal, Cristian Dejesus Tejada, Mark Williams &#38; Raul Cubina</string>
+			<key>Album</key><string>City of Gods - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9262276</integer>
+			<key>Total Time</key><integer>256000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-04-19T17:52:15Z</date>
+			<key>Date Added</key><date>2022-04-19T17:52:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-02-11T12:00:00Z</date>
+			<key>Normalization</key><integer>4316</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>City of Gods - Single</string>
+			<key>Sort Artist</key><string>Fivio Foreign, Kanye West &#38; Alicia Keys</string>
+			<key>Sort Name</key><string>City of Gods</string>
+			<key>Persistent ID</key><string>BEC7AB14B1B4DE6D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5307</key>
+		<dict>
+			<key>Track ID</key><integer>5307</integer>
+			<key>Name</key><string>Nail Tech</string>
+			<key>Artist</key><string>Jack Harlow</string>
+			<key>Album Artist</key><string>Jack Harlow</string>
+			<key>Composer</key><string>Amir Sims, Douglas Ford, Jack Harlow, Jahaan Sweet, Jose Velazquez, Matthew Samuels, Montez Dewayne Jones, Roget Chahayed &#38; Scotty Lavell Coleman</string>
+			<key>Album</key><string>Come Home The Kids Miss You</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7337148</integer>
+			<key>Total Time</key><integer>206385</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-04-26T17:34:53Z</date>
+			<key>Date Added</key><date>2022-04-26T17:34:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-02-18T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Come Home The Kids Miss You</string>
+			<key>Sort Artist</key><string>Jack Harlow</string>
+			<key>Sort Name</key><string>Nail Tech</string>
+			<key>Persistent ID</key><string>BD43D5815ED7F6CC</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5309</key>
+		<dict>
+			<key>Track ID</key><integer>5309</integer>
+			<key>Name</key><string>Burn (feat. Big Sean) [Bonus Track]</string>
+			<key>Artist</key><string>Meek Mill</string>
+			<key>Album Artist</key><string>Meek Mill</string>
+			<key>Composer</key><string>Big Sean, Eskeerdo, Jahlil Beats &#38; Meek Mill</string>
+			<key>Album</key><string>Dreams and Nightmares (Deluxe Version)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7688943</integer>
+			<key>Total Time</key><integer>216250</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2022-04-28T15:48:35Z</date>
+			<key>Date Added</key><date>2022-04-28T15:48:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dreams and Nightmares (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Meek Mill</string>
+			<key>Sort Name</key><string>Burn (feat. Big Sean) [Bonus Track]</string>
+			<key>Persistent ID</key><string>3D7ED7ACA86927B8</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5311</key>
+		<dict>
+			<key>Track ID</key><integer>5311</integer>
+			<key>Name</key><string>Dreams and Nightmares</string>
+			<key>Artist</key><string>Meek Mill</string>
+			<key>Album Artist</key><string>Meek Mill</string>
+			<key>Composer</key><string>Anthony Tucker, Kenoe, Mack Maine &#38; Meek Mill</string>
+			<key>Album</key><string>Dreams and Nightmares (Deluxe Version)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8111628</integer>
+			<key>Total Time</key><integer>230533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2022-04-28T15:48:47Z</date>
+			<key>Date Added</key><date>2022-04-28T15:48:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-10-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dreams and Nightmares (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Meek Mill</string>
+			<key>Sort Name</key><string>Dreams and Nightmares</string>
+			<key>Persistent ID</key><string>705659795B4EFC5D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5345</key>
+		<dict>
+			<key>Track ID</key><integer>5345</integer>
+			<key>Name</key><string>Good for Me (feat. GoldFord)</string>
+			<key>Artist</key><string>Bakermat</string>
+			<key>Album Artist</key><string>Bakermat</string>
+			<key>Composer</key><string>Lodewijk Fluttert, Jeff Goldford &#38; Jason Walker</string>
+			<key>Album</key><string>The Ringmaster</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7479694</integer>
+			<key>Total Time</key><integer>208078</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-05-31T03:23:35Z</date>
+			<key>Date Added</key><date>2022-05-31T03:23:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-10-09T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ringmaster</string>
+			<key>Sort Artist</key><string>Bakermat</string>
+			<key>Sort Name</key><string>Good for Me (feat. GoldFord)</string>
+			<key>Persistent ID</key><string>2A765974008AD781</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5367</key>
+		<dict>
+			<key>Track ID</key><integer>5367</integer>
+			<key>Name</key><string>Numb</string>
+			<key>Artist</key><string>Marshmello &#38; Khalid</string>
+			<key>Album Artist</key><string>Marshmello &#38; Khalid</string>
+			<key>Composer</key><string>Marshmello, Khalid Robinson, Pablo Bowman, Gregory "Aldae" Hein, Richard Boardman &#38; Nicholas Gale</string>
+			<key>Album</key><string>Numb - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5845141</integer>
+			<key>Total Time</key><integer>155589</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-06-14T19:52:41Z</date>
+			<key>Date Added</key><date>2022-06-14T19:52:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-06-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Numb - Single</string>
+			<key>Sort Artist</key><string>Marshmello &#38; Khalid</string>
+			<key>Sort Name</key><string>Numb</string>
+			<key>Persistent ID</key><string>0A8D6E0D2029C672</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>gym</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>9662</integer>
+			<key>Playlist Persistent ID</key><string>09622926BAE14310</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>5261</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5259</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3223</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5257</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4409</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4899</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4893</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4895</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4901</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5079</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5061</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5055</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4821</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5249</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3851</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5289</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5301</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2883</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3717</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2801</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5307</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5309</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5311</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5367</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
