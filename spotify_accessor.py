@@ -2,11 +2,14 @@ from spotipy.oauth2 import SpotifyClientCredentials
 import spotipy
 import spotipy.util as util
 import json
-
+import os
+import time
+from dotenv import load_dotenv
+load_dotenv(".env")
 
 # Spotify Token Access
-client_id = "INSERT CLIENT ID"
-client_secret = "INSET CLIENT SECRET"
+client_id = os.getenv('CLIENT_ID')
+client_secret = os.getenv('CLIENT_SECRET')
 
 client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
@@ -31,16 +34,38 @@ def create_playlist(username,playlist_name):
     username = username
     # playlist_name = input('Enter playlist name: ')
     # ^ pass in playlist name within the loop instead of asking for it every time
-    token = util.prompt_for_user_token(username=username, scope='playlist-modify-public', client_id=client_id,
-                                       client_secret=client_secret,
-                                       redirect_uri="http://localhost:8888/callback")
-                                        
 
+    # timeout = time.time() + 10   # 5 seconds from now
+    # while True:
+    #     print('generating token')
+    # os.remove(f".cache-{'username'}")   
+    token = util.prompt_for_user_token(username=username, scope='playlist-modify-public', client_id=client_id,
+                                            client_secret=client_secret,
+                                        redirect_uri="http://localhost:8889/callback"
+                                        )  
+        # if token or time.time() > timeout: 
+        #     print('breaking')           
+        #     break                               
+        
+        # raise Exception("cant get token")
+    # print(token)
     if token:
+        print('got the token...')
+        # try:
         sp = spotipy.Spotify(auth=token)
+
+        # print('sp:', sp.me)
         sp.trace = False
-        playlists = sp.user_playlist_create(username, playlist_name)
+        print('creating playlist...')
+        
+        # try:
+        playlists = sp.user_playlist_create(user=username, name=playlist_name)
+        # except TimeoutError:
+        #     raise TimeoutError("cant create playlist")
+        print('returning playlist...')
         return playlists['id']
+        # except:
+        #     raise Exception('error error error')
     else:
         print('Ran into token error.')
 
@@ -57,11 +82,16 @@ def get_track_id(song_name1, artist_name1, album_name1):
     while i < len(song_name1):
         artist = artist_name1[i]
         track = song_name1[i]
+        print(artist, track)
 
-        # try:
-        track_id = sp.search(q='artist:' + artist + ' track:' + track, type='track')
+        try:
+            # print('inside try')
+            track_id = sp.search(q='artist:' + artist + ' track:' + track, type='track')
+        except:
+            raise Exception('couldnt find track')
         for songsID in track_id['tracks']['items']:
             id_list.append(songsID['id'])
+            # print(song_name1[i])
             if not id_list:
                 album_list.append(album_name1[i])
                 song_list.append(song_name1[i])
@@ -109,10 +139,17 @@ def add_songs_to_playlist(username, playlist_id, track_ids):
     if token:
         sp = spotipy.Spotify(auth=token)
         sp.trace = False
-        
-        results = sp.user_playlist_add_tracks(username, playlist_id, track_ids)
+        print(track_ids)
+        print(len(track_ids))
+        for track in track_ids:
+            # results = sp.user_playlist_add_tracks(username, playlist_id, track_ids)
+            try:
+                sp.user_playlist_add_tracks(username, playlist_id, [track])
+            except:
+                print("ERROR:", track)
+
         print('Finished transferring playlist')
-        return results
+        # return results
 
 
 def add_song_ids(multiple_tracks1, more_tracks1):

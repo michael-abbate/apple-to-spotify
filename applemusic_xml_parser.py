@@ -27,9 +27,9 @@ def remove_feat_from_song(songname):
     for song in songname:
         start = song.find('(')
         if start != -1:
-            result.append(song[0:start])
+            result.append(str(song[0:start]).strip())
         else:
-            result.append(song)
+            result.append(str(song).strip())
     return result
 
 
@@ -39,9 +39,9 @@ def remove_feat_from_album(album_name1):
     for song in album_name1:
         start = song.find('(')
         if start != -1:
-            result.append(song[0:start])
+            result.append(str(song[0:start]).strip())
         else:
-            result.append(song)
+            result.append(str(song).strip())
     return result
 
 
